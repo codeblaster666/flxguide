@@ -40,5 +40,18 @@
     },
     "freeMonthlyCredit": 200,
     "remainingCredit": 192.77100000000002
+  },
+  {
+    "timestamp": "2026-01-28T21:15:49.830Z",
+    "operation": "retry-failed",
+    "apiCalls": {
+      "textSearch": 16,
+      "placeDetails": 16
+    },
+    "estimatedCost": {
+      "textSearch": 0.512,
+      "placeDetails": 0.272,
+      "total": 0.784
+    }
   }
 ]
