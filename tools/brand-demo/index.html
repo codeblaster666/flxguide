@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FLXguide Brand Guidelines Demo</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;700&family=JetBrains+Mono&family=Lora:wght@400;600&display=swap" rel="stylesheet">
+
+    <style>
+        /* ========================================
+           CSS CUSTOM PROPERTIES (Brand Tokens)
+           ======================================== */
+        :root {
+            /* Primary Colors */
+            --color-cream: #F5F0E8;
+            --color-warm-white: #FDFCFA;
+            --color-charcoal: #2D2A26;
+
+            /* Secondary Colors */
+            --color-tan: #D4C4B0;
+            --color-warm-gray: #8C837A;
+            --color-clay: #A69080;
+
+            /* Accent Colors */
+            --color-burnt-orange: #C4673E;
+            --color-rust: #A3522A;
+            --color-deep-wine: #722F37;
+
+            /* Status Colors */
+            --color-success: #5C7C5C;
+            --color-warning: #C9A227;
+            --color-error: #A63D3D;
+
+            /* Typography */
+            --font-heading: 'Inter', sans-serif;
+            --font-body: 'Lora', serif;
+            --font-mono: 'JetBrains Mono', monospace;
+
+            /* Spacing */
+            --space-xs: 4px;
+            --space-sm: 8px;
+            --space-md: 12px;
+            --space-lg: 16px;
+            --space-xl: 24px;
+            --space-2xl: 32px;
+            --space-3xl: 48px;
+
+            /* Shadows */
+            --shadow-card: 0 2px 8px rgba(45, 42, 38, 0.08);
+        }
+
+        /* ========================================
+           BASE STYLES
+           ======================================== */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: var(--font-body);
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--color-charcoal);
+            background-color: var(--color-cream);
+        }
+
+        /* ========================================
+           LAYOUT
+           ======================================== */
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: var(--space-xl);
+        }
+
+        .page-header {
+            text-align: center;
+            padding: var(--space-3xl) 0;
+            border-bottom: 1px solid var(--color-tan);
+            margin-bottom: var(--space-3xl);
+        }
+
+        .section {
+            margin-bottom: var(--space-3xl);
+            padding-bottom: var(--space-2xl);
+            border-bottom: 1px solid var(--color-tan);
+        }
+
+        .section:last-child {
+            border-bottom: none;
+        }
+
+        .section-title {
+            font-family: var(--font-heading);
+            font-size: 12px;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--color-warm-gray);
+            margin-bottom: var(--space-xl);
+        }
+
+        .demo-row {
+            display: flex;
+            gap: var(--space-xl);
+            flex-wrap: wrap;
+            align-items: flex-start;
+        }
+
+        .demo-column {
+            flex: 1;
+            min-width: 280px;
+        }
+
+        /* ========================================
+           TYPOGRAPHY
+           ======================================== */
+        h1 {
+            font-family: var(--font-heading);
+            font-size: 36px;
+            font-weight: 700;
+            line-height: 1.2;
+            color: var(--color-charcoal);
+            margin-bottom: var(--space-md);
+        }
+
+        h2 {
+            font-family: var(--font-heading);
+            font-size: 28px;
+            font-weight: 700;
+            line-height: 1.2;
+            color: var(--color-charcoal);
+            margin-bottom: var(--space-md);
+        }
+
+        h3 {
+            font-family: var(--font-heading);
+            font-size: 22px;
+            font-weight: 500;
+            line-height: 1.2;
+            color: var(--color-charcoal);
+            margin-bottom: var(--space-sm);
+        }
+
+        h4 {
+            font-family: var(--font-heading);
+            font-size: 18px;
+            font-weight: 500;
+            line-height: 1.2;
+            color: var(--color-charcoal);
+            margin-bottom: var(--space-sm);
+        }
+
+        p {
+            margin-bottom: var(--space-lg);
+        }
+
+        .body-small {
+            font-size: 14px;
+            color: var(--color-warm-gray);
+        }
+
+        .caption {
+            font-family: var(--font-heading);
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--color-warm-gray);
+            line-height: 1.4;
+        }
+
+        .mono {
+            font-family: var(--font-mono);
+            font-size: 14px;
+        }
+
+        .type-label {
+            font-family: var(--font-heading);
+            font-size: 11px;
+            font-weight: 500;
+            color: var(--color-burnt-orange);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: var(--space-xs);
+        }
+
+        .type-demo {
+            margin-bottom: var(--space-xl);
+        }
+
+        /* ========================================
+           COLOR SWATCHES
+           ======================================== */
+        .color-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            gap: var(--space-lg);
+        }
+
+        .color-swatch {
+            background: var(--color-warm-white);
+            border: 1px solid var(--color-tan);
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: var(--shadow-card);
+        }
+
+        .color-swatch-preview {
+            height: 70px;
+        }
+
+        .color-swatch-info {
+            padding: var(--space-md);
+        }
+
+        .color-swatch-name {
+            font-family: var(--font-heading);
+            font-size: 13px;
+            font-weight: 500;
+            color: var(--color-charcoal);
+            margin-bottom: var(--space-xs);
+        }
+
+        .color-swatch-hex {
+            font-family: var(--font-mono);
+            font-size: 12px;
+            color: var(--color-warm-gray);
+        }
+
+        .color-group-title {
+            font-family: var(--font-heading);
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--color-charcoal);
+            margin-bottom: var(--space-md);
+            margin-top: var(--space-xl);
+        }
+
+        .color-group-title:first-child {
+            margin-top: 0;
+        }
+
+        /* ========================================
+           BUTTONS
+           ======================================== */
+        .btn {
+            font-family: var(--font-heading);
+            font-size: 14px;
+            font-weight: 500;
+            padding: 12px 24px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: inline-block;
+            text-decoration: none;
+            border: none;
+        }
+
+        .btn-primary {
+            background-color: var(--color-burnt-orange);
+            color: var(--color-warm-white);
+        }
+
+        .btn-primary:hover {
+            background-color: var(--color-rust);
+        }
+
+        .btn-secondary {
+            background-color: transparent;
+            color: var(--color-charcoal);
+            border: 1px solid var(--color-tan);
+        }
+
+        .btn-secondary:hover {
+            background-color: var(--color-cream);
+        }
+
+        .text-link {
+            font-family: var(--font-heading);
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--color-burnt-orange);
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .text-link:hover {
+            text-decoration: underline;
+        }
+
+        .button-row {
+            display: flex;
+            gap: var(--space-lg);
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .button-demo {
+            margin-bottom: var(--space-lg);
+        }
+
+        .button-label {
+            font-family: var(--font-heading);
+            font-size: 11px;
+            color: var(--color-warm-gray);
+            margin-bottom: var(--space-sm);
+        }
+
+        /* ========================================
+           CARDS
+           ======================================== */
+        .card {
+            background: var(--color-warm-white);
+            border: 1px solid var(--color-tan);
+            border-radius: 8px;
+            padding: var(--space-md) var(--space-lg);
+            box-shadow: var(--shadow-card);
+        }
+
+        .card-title {
+            font-family: var(--font-heading);
+            font-size: 18px;
+            font-weight: 500;
+            color: var(--color-charcoal);
+            margin-bottom: var(--space-sm);
+        }
+
+        .card-body {
+            font-size: 15px;
+            color: var(--color-charcoal);
+            margin-bottom: var(--space-md);
+        }
+
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: var(--space-xl);
+        }
+
+        /* Winery Card */
+        .winery-card {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .winery-card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: var(--space-sm);
+        }
+
+        .winery-name {
+            font-family: var(--font-heading);
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--color-charcoal);
+        }
+
+        .winery-location {
+            font-size: 14px;
+            color: var(--color-warm-gray);
+            margin-bottom: var(--space-md);
+        }
+
+        .winery-meta {
+            display: flex;
+            gap: var(--space-lg);
+            align-items: center;
+        }
+
+        .winery-rating {
+            font-family: var(--font-heading);
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--color-charcoal);
+        }
+
+        .winery-rating .star {
+            color: var(--color-warning);
+        }
+
+        /* ========================================
+           STATUS BADGES
+           ======================================== */
+        .badge {
+            font-family: var(--font-heading);
+            font-size: 12px;
+            font-weight: 500;
+            padding: 4px 8px;
+            border-radius: 4px;
+            display: inline-block;
+        }
+
+        .badge-success {
+            background-color: rgba(92, 124, 92, 0.15);
+            color: var(--color-success);
+        }
+
+        .badge-warning {
+            background-color: rgba(201, 162, 39, 0.15);
+            color: var(--color-warning);
+        }
+
+        .badge-error {
+            background-color: rgba(166, 61, 61, 0.15);
+            color: var(--color-error);
+        }
+
+        .badge-row {
+            display: flex;
+            gap: var(--space-md);
+            flex-wrap: wrap;
+        }
+
+        /* ========================================
+           FORMS
+           ======================================== */
+        .form-group {
+            margin-bottom: var(--space-lg);
+        }
+
+        .form-label {
+            font-family: var(--font-heading);
+            font-size: 13px;
+            font-weight: 500;
+            color: var(--color-charcoal);
+            display: block;
+            margin-bottom: var(--space-sm);
+        }
+
+        .form-input,
+        .form-select {
+            font-family: var(--font-body);
+            font-size: 15px;
+            width: 100%;
+            padding: 12px 16px;
+            background: var(--color-warm-white);
+            border: 1px solid var(--color-tan);
+            border-radius: 6px;
+            color: var(--color-charcoal);
+            transition: border-color 0.2s ease;
+        }
+
+        .form-input::placeholder {
+            color: var(--color-warm-gray);
+        }
+
+        .form-input:focus,
+        .form-select:focus {
+            outline: none;
+            border-color: var(--color-burnt-orange);
+        }
+
+        .form-select {
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%238C837A' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 16px center;
+            padding-right: 40px;
+        }
+
+        .search-box {
+            position: relative;
+        }
+
+        .search-box .form-input {
+            padding-left: 44px;
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 16px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--color-warm-gray);
+        }
+
+        /* ========================================
+           TABLES
+           ======================================== */
+        .table-container {
+            background: var(--color-warm-white);
+            border: 1px solid var(--color-tan);
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: var(--shadow-card);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th {
+            font-family: var(--font-heading);
+            font-size: 13px;
+            font-weight: 500;
+            text-align: left;
+            padding: var(--space-md) var(--space-lg);
+            background: var(--color-cream);
+            color: var(--color-charcoal);
+            border-bottom: 1px solid var(--color-tan);
+        }
+
+        td {
+            font-size: 14px;
+            padding: var(--space-md) var(--space-lg);
+            border-bottom: 1px solid var(--color-tan);
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tr:nth-child(even) {
+            background: var(--color-cream);
+        }
+
+        tr:hover {
+            background: rgba(212, 196, 176, 0.3);
+        }
+
+        .table-mono {
+            font-family: var(--font-mono);
+            font-size: 12px;
+            color: var(--color-warm-gray);
+        }
+
+        /* ========================================
+           UTILITY
+           ======================================== */
+        .mb-sm { margin-bottom: var(--space-sm); }
+        .mb-md { margin-bottom: var(--space-md); }
+        .mb-lg { margin-bottom: var(--space-lg); }
+        .mb-xl { margin-bottom: var(--space-xl); }
+
+        .text-muted { color: var(--color-warm-gray); }
+        .text-accent { color: var(--color-burnt-orange); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Page Header -->
+        <header class="page-header">
+            <h1>FLXguide</h1>
+            <p class="body-small">Brand Guidelines Demo — v1.0</p>
+        </header>
+
+        <!-- Typography Section -->
+        <section class="section">
+            <div class="section-title">Typography</div>
+
+            <div class="demo-row">
+                <div class="demo-column">
+                    <div class="type-demo">
+                        <div class="type-label">H1 — Inter Bold, 36px</div>
+                        <h1>Discover the Finger Lakes</h1>
+                    </div>
+
+                    <div class="type-demo">
+                        <div class="type-label">H2 — Inter Bold, 28px</div>
+                        <h2>Award-Winning Wineries</h2>
+                    </div>
+
+                    <div class="type-demo">
+                        <div class="type-label">H3 — Inter Medium, 22px</div>
+                        <h3>Plan Your Perfect Tour</h3>
+                    </div>
+
+                    <div class="type-demo">
+                        <div class="type-label">H4 — Inter Medium, 18px</div>
+                        <h4>Local Favorites & Hidden Gems</h4>
+                    </div>
+                </div>
+
+                <div class="demo-column">
+                    <div class="type-demo">
+                        <div class="type-label">Body — Lora Regular, 16px</div>
+                        <p>The Finger Lakes region is home to over 100 wineries, each offering unique varietals and breathtaking views of the glacial lakes. From crisp Rieslings to bold Cabernet Francs, there's something for every palate.</p>
+                    </div>
+
+                    <div class="type-demo">
+                        <div class="type-label">Body Small — Lora Regular, 14px</div>
+                        <p class="body-small">Open daily from 10am to 5pm. Tastings start at $15 per person. Reservations recommended for groups of 6 or more.</p>
+                    </div>
+
+                    <div class="type-demo">
+                        <div class="type-label">Caption — Inter Medium, 12px</div>
+                        <p class="caption">Last updated: January 28, 2026 • Data sourced from Google Places API</p>
+                    </div>
+
+                    <div class="type-demo">
+                        <div class="type-label">Monospace — JetBrains Mono, 14px</div>
+                        <p class="mono">42.4731° N, 77.1840° W</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Color Palette Section -->
+        <section class="section">
+            <div class="section-title">Color Palette</div>
+
+            <div class="color-group-title">Primary Colors</div>
+            <div class="color-grid mb-xl">
+                <div class="color-swatch">
+                    <div class="color-swatch-preview" style="background: #F5F0E8;"></div>
+                    <div class="color-swatch-info">
+                        <div class="color-swatch-name">Cream</div>
+                        <div class="color-swatch-hex">#F5F0E8</div>
+                    </div>
+                </div>
+                <div class="color-swatch">
+                    <div class="color-swatch-preview" style="background: #FDFCFA; border-bottom: 1px solid #D4C4B0;"></div>
+                    <div class="color-swatch-info">
+                        <div class="color-swatch-name">Warm White</div>
+                        <div class="color-swatch-hex">#FDFCFA</div>
+                    </div>
+                </div>
+                <div class="color-swatch">
+                    <div class="color-swatch-preview" style="background: #2D2A26;"></div>
+                    <div class="color-swatch-info">
+                        <div class="color-swatch-name">Charcoal</div>
+                        <div class="color-swatch-hex">#2D2A26</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="color-group-title">Secondary Colors</div>
+            <div class="color-grid mb-xl">
+                <div class="color-swatch">
+                    <div class="color-swatch-preview" style="background: #D4C4B0;"></div>
+                    <div class="color-swatch-info">
+                        <div class="color-swatch-name">Tan</div>
+                        <div class="color-swatch-hex">#D4C4B0</div>
+                    </div>
+                </div>
+                <div class="color-swatch">
+                    <div class="color-swatch-preview" style="background: #8C837A;"></div>
+                    <div class="color-swatch-info">
+                        <div class="color-swatch-name">Warm Gray</div>
+                        <div class="color-swatch-hex">#8C837A</div>
+                    </div>
+                </div>
+                <div class="color-swatch">
+                    <div class="color-swatch-preview" style="background: #A69080;"></div>
+                    <div class="color-swatch-info">
+                        <div class="color-swatch-name">Clay</div>
+                        <div class="color-swatch-hex">#A69080</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="color-group-title">Accent Colors</div>
+            <div class="color-grid mb-xl">
+                <div class="color-swatch">
+                    <div class="color-swatch-preview" style="background: #C4673E;"></div>
+                    <div class="color-swatch-info">
+                        <div class="color-swatch-name">Burnt Orange</div>
+                        <div class="color-swatch-hex">#C4673E</div>
+                    </div>
+                </div>
+                <div class="color-swatch">
+                    <div class="color-swatch-preview" style="background: #A3522A;"></div>
+                    <div class="color-swatch-info">
+                        <div class="color-swatch-name">Rust</div>
+                        <div class="color-swatch-hex">#A3522A</div>
+                    </div>
+                </div>
+                <div class="color-swatch">
+                    <div class="color-swatch-preview" style="background: #722F37;"></div>
+                    <div class="color-swatch-info">
+                        <div class="color-swatch-name">Deep Wine</div>
+                        <div class="color-swatch-hex">#722F37</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="color-group-title">Status Colors</div>
+            <div class="color-grid">
+                <div class="color-swatch">
+                    <div class="color-swatch-preview" style="background: #5C7C5C;"></div>
+                    <div class="color-swatch-info">
+                        <div class="color-swatch-name">Success Green</div>
+                        <div class="color-swatch-hex">#5C7C5C</div>
+                    </div>
+                </div>
+                <div class="color-swatch">
+                    <div class="color-swatch-preview" style="background: #C9A227;"></div>
+                    <div class="color-swatch-info">
+                        <div class="color-swatch-name">Warning Amber</div>
+                        <div class="color-swatch-hex">#C9A227</div>
+                    </div>
+                </div>
+                <div class="color-swatch">
+                    <div class="color-swatch-preview" style="background: #A63D3D;"></div>
+                    <div class="color-swatch-info">
+                        <div class="color-swatch-name">Error Red</div>
+                        <div class="color-swatch-hex">#A63D3D</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Buttons Section -->
+        <section class="section">
+            <div class="section-title">Buttons</div>
+
+            <div class="button-row">
+                <div class="button-demo">
+                    <div class="button-label">Primary Button</div>
+                    <button class="btn btn-primary">Plan Your Tour</button>
+                </div>
+
+                <div class="button-demo">
+                    <div class="button-label">Secondary Button</div>
+                    <button class="btn btn-secondary">View All Wineries</button>
+                </div>
+
+                <div class="button-demo">
+                    <div class="button-label">Text Link</div>
+                    <a href="#" class="text-link">Learn more about the region →</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Status Badges Section -->
+        <section class="section">
+            <div class="section-title">Status Badges</div>
+
+            <div class="badge-row">
+                <span class="badge badge-success">Verified</span>
+                <span class="badge badge-warning">Needs Review</span>
+                <span class="badge badge-error">Error</span>
+            </div>
+        </section>
+
+        <!-- Cards Section -->
+        <section class="section">
+            <div class="section-title">Cards</div>
+
+            <div class="card-grid">
+                <div class="card">
+                    <h4 class="card-title">Sample Card</h4>
+                    <p class="card-body">This is a standard card component with a heading, body text, and an action button. Cards use warm white backgrounds with subtle tan borders.</p>
+                    <button class="btn btn-primary">Take Action</button>
+                </div>
+
+                <div class="card winery-card">
+                    <div class="winery-card-header">
+                        <div>
+                            <div class="winery-name">Dr. Konstantin Frank Winery</div>
+                            <div class="winery-location">Hammondsport, NY • Keuka Lake</div>
+                        </div>
+                        <span class="badge badge-success">Verified</span>
+                    </div>
+                    <div class="winery-meta">
+                        <div class="winery-rating"><span class="star">★</span> 4.7 (892 reviews)</div>
+                        <a href="#" class="text-link">View Details</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Form Elements Section -->
+        <section class="section">
+            <div class="section-title">Form Elements</div>
+
+            <div class="demo-row">
+                <div class="demo-column">
+                    <div class="form-group">
+                        <label class="form-label">Text Input</label>
+                        <input type="text" class="form-input" placeholder="Enter winery name...">
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label">Dropdown Select</label>
+                        <select class="form-select">
+                            <option>All Lakes</option>
+                            <option>Seneca Lake</option>
+                            <option>Cayuga Lake</option>
+                            <option>Keuka Lake</option>
+                            <option>Canandaigua Lake</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="demo-column">
+                    <div class="form-group">
+                        <label class="form-label">Search Box</label>
+                        <div class="search-box">
+                            <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="11" cy="11" r="8"></circle>
+                                <path d="M21 21l-4.35-4.35"></path>
+                            </svg>
+                            <input type="text" class="form-input" placeholder="Search wineries, restaurants, activities...">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Table Section -->
+        <section class="section">
+            <div class="section-title">Table</div>
+
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Winery</th>
+                            <th>Location</th>
+                            <th>Rating</th>
+                            <th>Coordinates</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Dr. Konstantin Frank</strong></td>
+                            <td>Hammondsport, NY</td>
+                            <td>4.7 ★</td>
+                            <td class="table-mono">42.4731, -77.1840</td>
+                            <td><span class="badge badge-success">Verified</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Hermann J. Wiemer</strong></td>
+                            <td>Dundee, NY</td>
+                            <td>4.7 ★</td>
+                            <td class="table-mono">42.5720, -76.9281</td>
+                            <td><span class="badge badge-success">Verified</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Ravines Wine Cellars</strong></td>
+                            <td>Geneva, NY</td>
+                            <td>4.5 ★</td>
+                            <td class="table-mono">42.8445, -77.0010</td>
+                            <td><span class="badge badge-warning">Needs Review</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Fox Run Vineyards</strong></td>
+                            <td>Penn Yan, NY</td>
+                            <td>4.4 ★</td>
+                            <td class="table-mono">42.7310, -76.9723</td>
+                            <td><span class="badge badge-success">Verified</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Agness Wine Cellars</strong></td>
+                            <td>—</td>
+                            <td>—</td>
+                            <td class="table-mono">—</td>
+                            <td><span class="badge badge-error">Not Found</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer style="text-align: center; padding: var(--space-2xl) 0; color: var(--color-warm-gray);">
+            <p class="caption">FLXguide Brand Guidelines Demo • Version 1.0</p>
+        </footer>
+    </div>
+</body>
+</html>
