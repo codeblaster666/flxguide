@@ -1,0 +1,409 @@
+{
+  "wineries": [
+    {
+      "id": "w1",
+      "name": "Dr. Konstantin Frank Winery",
+      "lat": 42.473426,
+      "lng": -77.1840462,
+      "address": "9749 Middle Rd, Hammondsport, NY 14840, United States",
+      "rating": 4.7,
+      "lake": "Keuka",
+      "placeId": "ChIJXYjYlsL_0IkRPIGyX1awZbQ"
+    },
+    {
+      "id": "w2",
+      "name": "Hermann J. Wiemer Vineyard",
+      "lat": 42.5720217,
+      "lng": -76.92809849999999,
+      "address": "3962 NY-14, Dundee, NY 14837, United States",
+      "rating": 4.7,
+      "lake": "Seneca",
+      "placeId": "ChIJTZYUJuPx0IkRb0aEp1cn4YM"
+    },
+    {
+      "id": "w3",
+      "name": "Ravines Wine Cellars",
+      "lat": 42.8445395,
+      "lng": -77.0010313,
+      "address": "400 Barracks Rd, Geneva, NY 14456, United States",
+      "rating": 4.3,
+      "lake": "Keuka",
+      "placeId": "ChIJC_-GD8_E0IkRwWQY_XJNpF0"
+    },
+    {
+      "id": "w4",
+      "name": "Fox Run Vineyards",
+      "lat": 42.73099939999999,
+      "lng": -76.9722709,
+      "address": "670 NY-14, Penn Yan, NY 14527, United States",
+      "rating": 4.4,
+      "lake": "Seneca",
+      "placeId": "ChIJ1dtW6i7o0IkRVmjNcO2avVY"
+    },
+    {
+      "id": "w5",
+      "name": "Lamoreaux Landing Wine Cellars",
+      "lat": 42.57663180000001,
+      "lng": -76.8584529,
+      "address": "9224 NY-414, Lodi, NY 14860, United States",
+      "rating": 4.6,
+      "lake": "Seneca",
+      "placeId": "ChIJ3RQFkGTt0IkR4kaLaimATAM"
+    },
+    {
+      "id": "w6",
+      "name": "Wagner Vineyards",
+      "lat": 42.5715292,
+      "lng": -76.8591094,
+      "address": "9322 NY-414, Lodi, NY 14860, United States",
+      "rating": 4.4,
+      "lake": "Seneca",
+      "placeId": "ChIJOZf-lmLt0IkRbDHq0BzEuqo"
+    },
+    {
+      "id": "w7",
+      "name": "Red Newt Cellars",
+      "lat": 42.501911,
+      "lng": -76.867181,
+      "address": "3675 Tichenor Rd, Hector, NY 14841, United States",
+      "rating": 4.4,
+      "lake": "Seneca",
+      "placeId": "ChIJHQVjZHnz0IkRLWeNFf-SO-A"
+    },
+    {
+      "id": "w8",
+      "name": "Heron Hill Winery",
+      "lat": 42.4499099,
+      "lng": -77.20157069999999,
+      "address": "9301 Co Rd 76, Hammondsport, NY 14840, United States",
+      "rating": 4.3,
+      "lake": "Keuka",
+      "placeId": "ChIJjQkWk66q0YkRNZNV-WitzD4"
+    },
+    {
+      "id": "w9",
+      "name": "Bully Hill Vineyards",
+      "lat": 42.4293616,
+      "lng": -77.20908349999999,
+      "address": "8843 Greyton H Taylor Memorial Dr, Hammondsport, NY 14840, United States",
+      "rating": 4.4,
+      "lake": "Keuka",
+      "placeId": "ChIJoXQfILqq0YkR_zgEa0XB3tk"
+    },
+    {
+      "id": "w10",
+      "name": "Glenora Wine Cellars",
+      "lat": 42.5000667,
+      "lng": -76.9237833,
+      "address": "5435 NY-14, Dundee, NY 14837, United States",
+      "rating": 4.3,
+      "lake": "Seneca",
+      "placeId": "ChIJd-AknKz20IkRkt2gOdtiThA"
+    },
+    {
+      "id": "w11",
+      "name": "Sheldrake Point Winery",
+      "lat": 42.663409,
+      "lng": -76.701425,
+      "address": "7448 County Rd 153, Ovid, NY 14521, United States",
+      "rating": 4.4,
+      "lake": "Cayuga",
+      "placeId": "ChIJvRUpMfeW0IkRAAWh7I6zzyA"
+    },
+    {
+      "id": "w12",
+      "name": "Hosmer Winery",
+      "lat": 42.6840231,
+      "lng": -76.7453281,
+      "address": "7020 NY-89, Ovid, NY 14521, United States",
+      "rating": 4.7,
+      "lake": "Cayuga",
+      "placeId": "ChIJMRgfe9mV0IkRywQh_p_ssjc"
+    },
+    {
+      "id": "w13",
+      "name": "Swedish Hill Winery",
+      "lat": 42.80322779999999,
+      "lng": -76.8103778,
+      "address": "4565 NY-414, Romulus, NY 14541, United States",
+      "rating": 4.1,
+      "lake": "Cayuga",
+      "placeId": "ChIJVZvqKmK_0IkRI27Dr8spYCo"
+    },
+    {
+      "id": "w14",
+      "name": "Buttonwood Grove Winery",
+      "lat": 42.7326916,
+      "lng": -76.7706247,
+      "address": "5986 NY-89, Romulus, NY 14541, United States",
+      "rating": 4.8,
+      "lake": "Cayuga",
+      "placeId": "ChIJGahYEDi-0IkRY1ipX1gh4m8"
+    },
+    {
+      "id": "w15",
+      "name": "King Ferry Winery",
+      "lat": 42.6499963,
+      "lng": -76.63469289999999,
+      "address": "658 Lake Rd, King Ferry, NY 13081, United States",
+      "rating": 4.7,
+      "lake": "Cayuga",
+      "placeId": "ChIJ86N-DtqZ0IkR9ets0kZO3Sw"
+    },
+    {
+      "id": "w16",
+      "name": "Six Mile Creek Vineyard",
+      "lat": 42.4177217,
+      "lng": -76.45453549999999,
+      "address": "1551 Slaterville Rd, Ithaca, NY 14850, United States",
+      "rating": 4.6,
+      "lake": "Cayuga",
+      "placeId": "ChIJz1d00mJ_2okR4rS5p8mcEYI"
+    },
+    {
+      "id": "w17",
+      "name": "Thirsty Owl Wine Company",
+      "lat": 42.6932392,
+      "lng": -76.7413356,
+      "address": "6861 NY-89, Ovid, NY 14521, United States",
+      "rating": 4.4,
+      "lake": "Cayuga",
+      "placeId": "ChIJ5xl5t-iV0IkRXgRQsbgYvQM"
+    },
+    {
+      "id": "w18",
+      "name": "Anthony Road Wine Company",
+      "lat": 42.705043,
+      "lng": -76.97353,
+      "address": "1020 Anthony Rd, Penn Yan, NY 14527, United States",
+      "rating": 4.7,
+      "lake": "Seneca",
+      "placeId": "ChIJDabt81Ho0IkRwJjvlgXp2iE"
+    },
+    {
+      "id": "w19",
+      "name": "Billsboro Winery",
+      "lat": 42.7985969,
+      "lng": -76.9793159,
+      "address": "4760 W Lake Rd, Geneva, NY 14456, United States",
+      "rating": 4.6,
+      "lake": "Seneca",
+      "placeId": "ChIJ72T2PW3D0IkRxi3O_VE3zpU"
+    },
+    {
+      "id": "w20",
+      "name": "Ventosa Vineyards",
+      "lat": 42.8571703,
+      "lng": -76.9360282,
+      "address": "3440 NY-96A, Geneva, NY 14456, United States",
+      "rating": 4.4,
+      "lake": "Seneca",
+      "placeId": "ChIJz0nXqMjF0IkRDQXWyqlS944"
+    },
+    {
+      "id": "w21",
+      "name": "Lakewood Vineyards",
+      "lat": 42.4287709,
+      "lng": -76.9054646,
+      "address": "4024 NY-14, Watkins Glen, NY 14891, United States",
+      "rating": 4.7,
+      "lake": "Seneca",
+      "placeId": "ChIJbdCPUvf10IkRyIbGKwkZxwM"
+    },
+    {
+      "id": "w22",
+      "name": "Atwater Estate Vineyards",
+      "lat": 42.4784724,
+      "lng": -76.8694139,
+      "address": "5055 NY-414, Burdett, NY 14818, United States",
+      "rating": 4.5,
+      "lake": "Seneca",
+      "placeId": "ChIJf7r7VIr00IkR1W5Oxy40PkY"
+    },
+    {
+      "id": "w23",
+      "name": "Standing Stone Vineyards",
+      "lat": 42.5434461,
+      "lng": -76.8747894,
+      "address": "9934 NY-414, Hector, NY 14841, United States",
+      "rating": 4.4,
+      "lake": "Seneca",
+      "placeId": "ChIJE9HQHFjy0IkRoYrxysz72-Q"
+    },
+    {
+      "id": "w24",
+      "name": "Hazlitt 1852 Vineyards",
+      "lat": 42.5105599,
+      "lng": -76.8760324,
+      "address": "5712 NY-414, Hector, NY 14841, United States",
+      "rating": 4.7,
+      "lake": "Seneca",
+      "placeId": "ChIJF7zAGZzz0IkRGrSfgbI3oRc"
+    },
+    {
+      "id": "w25",
+      "name": "Chateau Lafayette Reneau",
+      "lat": 42.4799915,
+      "lng": -76.86969549999999,
+      "address": "5081 NY-414, Hector, NY 14841, United States",
+      "rating": 4.3,
+      "lake": "Seneca",
+      "placeId": "ChIJ_ZNUj4n00IkR30BSs9RvHXs"
+    },
+    {
+      "id": "w26",
+      "name": "Silver Thread Vineyard",
+      "lat": 42.561524,
+      "lng": -76.86414769999999,
+      "address": "9564 NY-414, Lodi, NY 14860, United States",
+      "rating": 4.7,
+      "lake": "Seneca",
+      "placeId": "ChIJwwPtV33y0IkRvla3ru4rpDY"
+    },
+    {
+      "id": "w27",
+      "name": "Zugibe Vineyards",
+      "lat": 42.81892370000001,
+      "lng": -76.9325314,
+      "address": "4248 E Lake Rd, Geneva, NY 14456, United States",
+      "rating": 4.3,
+      "lake": "Seneca",
+      "placeId": "ChIJSZmxFg_E0IkRUmF-kNTFLz8"
+    },
+    {
+      "id": "w28",
+      "name": "Three Brothers Wineries",
+      "lat": 42.8231619,
+      "lng": -76.92305120000002,
+      "address": "623 Lerch Rd, Geneva, NY 14456, United States",
+      "rating": 4.6,
+      "lake": "Seneca",
+      "placeId": "ChIJ4ZsHGRvE0IkRsLVDOibUpsU"
+    },
+    {
+      "id": "w29",
+      "name": "Keuka Spring Vineyards",
+      "lat": 42.6263804,
+      "lng": -77.06741749999999,
+      "address": "243 Route 54, East Lake Rd, Penn Yan, NY 14527, United States",
+      "rating": 4.8,
+      "lake": "Keuka",
+      "placeId": "ChIJr05cGjXk0IkRqL-TmED_UIs"
+    },
+    {
+      "id": "w30",
+      "name": "McGregor Vineyard",
+      "lat": 42.49823809999999,
+      "lng": -77.102172,
+      "address": "5503 Dutch St, Dundee, NY 14837, United States",
+      "rating": 4.6,
+      "lake": "Keuka",
+      "placeId": "ChIJgc4Ap8z-0IkR6oyVfqvtc5Q"
+    },
+    {
+      "id": "w31",
+      "name": "Hunt Country Vineyards",
+      "lat": 42.5345,
+      "lng": -77.0234,
+      "address": "4021 Italy Hill Rd, Branchport, NY",
+      "rating": 4.4,
+      "lake": "Keuka"
+    },
+    {
+      "id": "w32",
+      "name": "Weis Vineyards",
+      "lat": 42.4846976,
+      "lng": -77.13777209999999,
+      "address": "10014 Day Rd, Hammondsport, NY 14840, United States",
+      "rating": 4.8,
+      "lake": "Keuka",
+      "placeId": "ChIJvclE0hz_0IkR0RV0Aa3tMho"
+    },
+    {
+      "id": "w33",
+      "name": "Prejean Winery",
+      "lat": 42.6368553,
+      "lng": -76.94566429999999,
+      "address": "2634 NY-14, Penn Yan, NY 14527, United States",
+      "rating": 4.8,
+      "lake": "Seneca",
+      "placeId": "ChIJZRzrNenu0IkR76y_SkWXW-E"
+    },
+    {
+      "id": "w34",
+      "name": "Fulkerson Winery",
+      "lat": 42.4926549,
+      "lng": -76.92432579999999,
+      "address": "5576 NY-14, Dundee, NY 14837, United States",
+      "rating": 4.4,
+      "lake": "Seneca",
+      "placeId": "ChIJuSW_La_20IkR4NTrMi_u1hI"
+    },
+    {
+      "id": "w35",
+      "name": "Boundary Breaks Vineyard",
+      "lat": 42.629331,
+      "lng": -76.8641699,
+      "address": "1568 Porter Covert Rd, Lodi, NY 14860, United States",
+      "rating": 4.6,
+      "lake": "Seneca",
+      "placeId": "ChIJh4LZh_Ts0IkRu8mChC9Qhck"
+    },
+    {
+      "id": "w36",
+      "name": "Lucas Vineyards",
+      "lat": 42.62787,
+      "lng": -76.71015400000002,
+      "address": "3862 County Rd 150, Interlaken, NY 14847, United States",
+      "rating": 4.2,
+      "lake": "Cayuga",
+      "placeId": "ChIJmzxYjzWR0IkRF7M2OgTw640"
+    },
+    {
+      "id": "w37",
+      "name": "Americana Vineyards",
+      "lat": 42.5759106,
+      "lng": -76.677022,
+      "address": "4367 E Covert Rd, Interlaken, NY 14847, United States",
+      "rating": 4.2,
+      "lake": "Cayuga",
+      "placeId": "ChIJ11V-aUWQ0IkRp1ZhJn5nQn8"
+    },
+    {
+      "id": "w38",
+      "name": "Montezuma Winery",
+      "lat": 42.9506574,
+      "lng": -76.7679191,
+      "address": "2981 US-20, Seneca Falls, NY 13148, United States",
+      "rating": 4.5,
+      "lake": "Cayuga",
+      "placeId": "ChIJH1CJ5CW00IkRfOJhtuKiHco"
+    },
+    {
+      "id": "w39",
+      "name": "Long Point Winery",
+      "lat": 42.710341,
+      "lng": -76.6841834,
+      "address": "1485 Lake Rd, Aurora, NY 13026, United States",
+      "rating": 4.6,
+      "lake": "Cayuga",
+      "placeId": "ChIJ1ebsw3i90IkRIlocmVUvyvc"
+    },
+    {
+      "id": "w40",
+      "name": "Goose Watch Winery",
+      "lat": 42.7588634,
+      "lng": -76.7719832,
+      "address": "5480 NY-89, Romulus, NY 14541, United States",
+      "rating": 4,
+      "lake": "Cayuga",
+      "placeId": "ChIJmyFop_6-0IkRjISdjCh8JRo"
+    }
+  ],
+  "metadata": {
+    "region": "Finger Lakes, NY",
+    "lastUpdated": "2026-01-23",
+    "totalWineries": 40,
+    "coordinatesVerified": true
+  }
+}

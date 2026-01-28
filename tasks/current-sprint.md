@@ -17,9 +17,9 @@
 - [ ] Establish coding standards and documentation guidelines
 
 ### Repository Migration
-- [ ] Move wine tour app into this repo
-- [ ] Review existing wine tour app code
-- [ ] Document wine tour app architecture
+- [x] Move wine tour app into this repo
+- [x] Review existing wine tour app code
+- [x] Document wine tour app architecture
 - [ ] Plan integration with main site
 
 ### Research: Fishing Content
@@ -59,8 +59,8 @@
 
 ### Move wine tour app into this repo
 **Priority**: High
-**Status**: Not Started
-**Notes**: Existing wine tour app needs to be migrated into the `apps/wine-tour/` directory. Review code quality and documentation before integration.
+**Status**: Complete
+**Notes**: Migrated wine tour app to `apps/wine-tour/`. App includes 40 wineries across Seneca, Cayuga, and Keuka lakes. Features route optimization, Leaflet maps, and export to Apple/Google Maps. Updated README with full documentation.
 
 ### Research: Deep dive on fishing content
 **Priority**: High
@@ -118,6 +118,8 @@
 - [x] Create CONTENT-CALENDAR.md
 - [x] Create research document templates
 - [x] Set up task tracking structure
+- [x] Move wine tour app into this repo
+- [x] Review and document wine tour app architecture
 
 ---
 

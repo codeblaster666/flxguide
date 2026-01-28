@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finger Lakes Wine Tour Planner</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <header>
+                <h1>Finger Lakes Wine Tour</h1>
+                <p class="subtitle">Plan your perfect winery route</p>
+            </header>
+
+            <form id="tour-form">
+                <div class="form-group">
+                    <label for="start-location">Starting Location</label>
+                    <input type="text" id="start-location" placeholder="Enter address or city" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="winery-count">Number of Wineries: <span id="winery-count-display">4</span></label>
+                    <input type="range" id="winery-count" min="1" max="8" value="4">
+                </div>
+
+                <div class="form-group">
+                    <label for="max-distance">Maximum Distance (miles)</label>
+                    <input type="number" id="max-distance" value="30" min="5" max="100">
+                </div>
+
+                <div class="form-group">
+                    <label for="start-time">Tour Start Time</label>
+                    <input type="time" id="start-time" value="10:00">
+                </div>
+
+                <button type="submit" id="generate-btn">Generate Route</button>
+            </form>
+
+            <!-- Itinerary Results -->
+            <div id="itinerary" class="itinerary hidden">
+                <h2>Your Itinerary</h2>
+                <div id="itinerary-list"></div>
+                <div id="tour-summary"></div>
+            </div>
+
+            <!-- Error Messages -->
+            <div id="error-message" class="error hidden"></div>
+
+            <!-- Loading State -->
+            <div id="loading" class="loading hidden">
+                <div class="spinner"></div>
+                <p>Finding wineries...</p>
+            </div>
+        </aside>
+
+        <!-- Map -->
+        <main class="map-container">
+            <div id="map"></div>
+        </main>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <!-- Google Places API - Replace YOUR_API_KEY with your actual key -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAmvinOmrZbDQwuHh-Z9GtGcqwUB17EeLs&libraries=places&callback=initApp" async defer></script>
+
+    <!-- App Scripts -->
+    <script src="js/router.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

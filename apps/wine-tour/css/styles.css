@@ -1,0 +1,450 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+/* Sidebar Styles */
+.sidebar {
+    width: 380px;
+    background: white;
+    padding: 24px;
+    overflow-y: auto;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+    border-bottom: 2px solid #722f37;
+}
+
+header h1 {
+    color: #722f37;
+    font-size: 1.5rem;
+    margin-bottom: 4px;
+}
+
+.subtitle {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+/* Form Styles */
+#tour-form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.form-group label {
+    font-weight: 500;
+    font-size: 0.9rem;
+    color: #444;
+}
+
+.form-group input[type="text"],
+.form-group input[type="number"],
+.form-group input[type="time"] {
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 1rem;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.form-group input:focus {
+    outline: none;
+    border-color: #722f37;
+    box-shadow: 0 0 0 3px rgba(114, 47, 55, 0.1);
+}
+
+.form-group input[type="range"] {
+    width: 100%;
+    height: 8px;
+    border-radius: 4px;
+    background: #ddd;
+    cursor: pointer;
+    -webkit-appearance: none;
+}
+
+.form-group input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #722f37;
+    cursor: pointer;
+}
+
+#generate-btn {
+    background: #722f37;
+    color: white;
+    border: none;
+    padding: 14px 24px;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s;
+    margin-top: 8px;
+}
+
+#generate-btn:hover {
+    background: #5a252c;
+}
+
+#generate-btn:active {
+    transform: scale(0.98);
+}
+
+#generate-btn:disabled {
+    background: #ccc;
+    cursor: not-allowed;
+}
+
+/* Itinerary Styles */
+.itinerary {
+    margin-top: 24px;
+    padding-top: 24px;
+    border-top: 1px solid #eee;
+    flex: 1;
+}
+
+.itinerary h2 {
+    font-size: 1.1rem;
+    color: #722f37;
+    margin-bottom: 16px;
+}
+
+.itinerary-item {
+    display: flex;
+    gap: 12px;
+    padding: 12px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.itinerary-item:last-child {
+    border-bottom: none;
+}
+
+.stop-number {
+    width: 28px;
+    height: 28px;
+    background: #722f37;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 0.85rem;
+    flex-shrink: 0;
+}
+
+.stop-number.start {
+    background: #2d5a27;
+}
+
+.stop-details {
+    flex: 1;
+}
+
+.stop-name {
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 2px;
+}
+
+.stop-address {
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 4px;
+}
+
+.stop-time {
+    font-size: 0.85rem;
+    color: #722f37;
+    font-weight: 500;
+}
+
+.stop-rating {
+    font-size: 0.8rem;
+    color: #f5a623;
+}
+
+#tour-summary {
+    margin-top: 16px;
+    padding: 16px;
+    background: #f9f9f9;
+    border-radius: 8px;
+}
+
+#tour-summary p {
+    font-size: 0.9rem;
+    margin-bottom: 4px;
+}
+
+#tour-summary p:last-child {
+    margin-bottom: 0;
+}
+
+#tour-summary strong {
+    color: #722f37;
+}
+
+/* Error Styles */
+.error {
+    margin-top: 16px;
+    padding: 12px;
+    background: #fee;
+    border: 1px solid #fcc;
+    border-radius: 6px;
+    color: #c00;
+    font-size: 0.9rem;
+}
+
+/* Loading Styles */
+.loading {
+    margin-top: 24px;
+    text-align: center;
+    padding: 24px;
+}
+
+.spinner {
+    width: 40px;
+    height: 40px;
+    border: 3px solid #eee;
+    border-top-color: #722f37;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 12px;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+.hidden {
+    display: none !important;
+}
+
+/* Map Styles */
+.map-container {
+    flex: 1;
+    position: relative;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+/* Custom Leaflet Marker Styles */
+.labeled-marker-container {
+    background: transparent !important;
+    border: none !important;
+}
+
+.labeled-marker {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background: #722f37;
+    color: white;
+    padding: 4px 10px 4px 4px;
+    border-radius: 14px;
+    font-size: 12px;
+    font-weight: 500;
+    white-space: nowrap;
+    border: 2px solid white;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+.marker-number {
+    background: rgba(255, 255, 255, 0.25);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 11px;
+    flex-shrink: 0;
+}
+
+.marker-name {
+    font-weight: 500;
+}
+
+.grey-marker {
+    background: #888 !important;
+    padding: 3px 8px;
+    font-size: 11px;
+    opacity: 0.85;
+}
+
+.grey-marker .marker-name {
+    font-weight: 400;
+}
+
+/* Popup buttons */
+.popup-btn {
+    display: block;
+    width: 100%;
+    margin-top: 8px;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.popup-btn.add-btn {
+    background: #2d5a27;
+    color: white;
+}
+
+.popup-btn.add-btn:hover {
+    background: #234a1f;
+}
+
+.popup-btn.remove-btn {
+    background: #dc3545;
+    color: white;
+}
+
+.popup-btn.remove-btn:hover {
+    background: #c82333;
+}
+
+/* Itinerary remove button */
+.remove-btn {
+    margin-top: 8px;
+    padding: 4px 10px;
+    background: none;
+    border: 1px solid #dc3545;
+    color: #dc3545;
+    border-radius: 4px;
+    font-size: 11px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.remove-btn:hover {
+    background: #dc3545;
+    color: white;
+}
+
+/* Export buttons */
+.export-buttons {
+    display: flex;
+    gap: 8px;
+    margin-top: 16px;
+}
+
+.export-btn {
+    flex: 1;
+    padding: 10px 12px;
+    border: none;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s;
+}
+
+.export-btn:active {
+    transform: scale(0.98);
+}
+
+.export-btn.apple-maps {
+    background: #000;
+    color: #fff;
+}
+
+.export-btn.apple-maps:hover {
+    background: #333;
+}
+
+.export-btn.google-maps {
+    background: #4285f4;
+    color: #fff;
+}
+
+.export-btn.google-maps:hover {
+    background: #3367d6;
+}
+
+/* Leaflet Popup Customization */
+.leaflet-popup-content-wrapper {
+    border-radius: 8px;
+}
+
+.leaflet-popup-content {
+    margin: 12px;
+}
+
+.popup-title {
+    font-weight: 600;
+    color: #722f37;
+    margin-bottom: 4px;
+}
+
+.popup-address {
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 2px;
+}
+
+.popup-lake {
+    font-size: 0.8rem;
+    color: #888;
+    font-style: italic;
+    margin-bottom: 4px;
+}
+
+.popup-time {
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+        height: auto;
+        max-height: 50vh;
+    }
+
+    .map-container {
+        height: 50vh;
+    }
+}
