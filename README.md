@@ -42,6 +42,7 @@ flxguide/
 
 ### Research
 - [Wine Research](docs/research/wine.md)
+- [Wineries Database](docs/research/wineries-database.md) - Complete list of 140+ wineries
 - [Fishing Research](docs/research/fishing.md)
 - [Hunting Research](docs/research/hunting.md)
 - [Camping Research](docs/research/camping.md)
