@@ -1,0 +1,2 @@
+# Ignore progress file (temporary, used for resume)
+.progress.json
