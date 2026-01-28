@@ -25,6 +25,7 @@ const CONFIG = {
     outputFile: path.join(__dirname, '../data/wineries/wineries.json'),
     progressFile: path.join(__dirname, '../data/wineries/.progress.json'),
     reportFile: path.join(__dirname, '../data/wineries/collection-report.md'),
+    costFile: path.join(__dirname, '../data/wineries/api-costs.json'),
 
     // Rate limiting: Google Places API allows 100 requests per second,
     // but we'll be conservative to avoid issues
@@ -40,6 +41,36 @@ const CONFIG = {
         lat: 42.6,
         lng: -76.9,
         radius: 80000 // 80km radius covers the Finger Lakes region
+    },
+
+    // API Cost tracking (per 1000 requests)
+    costs: {
+        textSearch: 32.00,      // $32 per 1000 Text Search requests
+        placeDetails: 17.00,   // $17 per 1000 Place Details requests
+        freeMonthlyCredit: 200.00  // $200 free credit per month
+    }
+};
+
+// API usage tracking
+const apiUsage = {
+    textSearchCalls: 0,
+    placeDetailsCalls: 0,
+    getCost: function() {
+        const textSearchCost = (this.textSearchCalls / 1000) * CONFIG.costs.textSearch;
+        const detailsCost = (this.placeDetailsCalls / 1000) * CONFIG.costs.placeDetails;
+        return {
+            textSearch: textSearchCost,
+            placeDetails: detailsCost,
+            total: textSearchCost + detailsCost
+        };
+    },
+    log: function() {
+        const costs = this.getCost();
+        console.log(`\n📊 API Usage:`);
+        console.log(`   Text Search calls: ${this.textSearchCalls} ($${costs.textSearch.toFixed(2)})`);
+        console.log(`   Place Details calls: ${this.placeDetailsCalls} ($${costs.placeDetails.toFixed(2)})`);
+        console.log(`   Total estimated cost: $${costs.total.toFixed(2)}`);
+        console.log(`   Free tier remaining: $${(CONFIG.costs.freeMonthlyCredit - costs.total).toFixed(2)}`);
     }
 };
 
@@ -141,6 +172,7 @@ async function searchPlace(wineryName) {
     const query = encodeURIComponent(`${wineryName} winery ${CONFIG.searchRegion}`);
     const url = `https://maps.googleapis.com/maps/api/place/textsearch/json?query=${query}&location=${CONFIG.locationBias.lat},${CONFIG.locationBias.lng}&radius=${CONFIG.locationBias.radius}&key=${CONFIG.apiKey}`;
 
+    apiUsage.textSearchCalls++;
     const response = await httpsRequest(url);
 
     if (response.status === 'REQUEST_DENIED') {
@@ -170,6 +202,7 @@ async function getPlaceDetails(placeId) {
 
     const url = `https://maps.googleapis.com/maps/api/place/details/json?place_id=${placeId}&fields=${fields}&key=${CONFIG.apiKey}`;
 
+    apiUsage.placeDetailsCalls++;
     const response = await httpsRequest(url);
 
     if (response.status === 'REQUEST_DENIED') {
@@ -452,6 +485,18 @@ async function main() {
     }
 
     console.log(`Wineries to process: ${toProcess.length}`);
+
+    // Show cost estimate before running
+    const estimatedTextSearchCalls = toProcess.length;
+    const estimatedDetailsCalls = toProcess.length; // Assume all found
+    const estimatedCost = (estimatedTextSearchCalls / 1000 * CONFIG.costs.textSearch) +
+                         (estimatedDetailsCalls / 1000 * CONFIG.costs.placeDetails);
+
+    console.log(`\n💰 Estimated API Cost:`);
+    console.log(`   Text Search: ${estimatedTextSearchCalls} calls × $0.032 = $${(estimatedTextSearchCalls * 0.032).toFixed(2)}`);
+    console.log(`   Place Details: ${estimatedDetailsCalls} calls × $0.017 = $${(estimatedDetailsCalls * 0.017).toFixed(2)}`);
+    console.log(`   Total: ~$${estimatedCost.toFixed(2)} (Free tier: $200/month)`);
+
     console.log('-'.repeat(60));
 
     // Process each winery
@@ -516,6 +561,35 @@ async function main() {
     console.log(`⚠️  Issues:      ${errors}`);
     console.log(`❌ Not Found:   ${notFound}`);
     console.log(`Total:          ${allResults.length}`);
+
+    // Show final API costs
+    apiUsage.log();
+
+    // Save cost tracking to file
+    const costData = {
+        timestamp: new Date().toISOString(),
+        apiCalls: {
+            textSearch: apiUsage.textSearchCalls,
+            placeDetails: apiUsage.placeDetailsCalls
+        },
+        estimatedCost: apiUsage.getCost(),
+        freeMonthlyCredit: CONFIG.costs.freeMonthlyCredit,
+        remainingCredit: CONFIG.costs.freeMonthlyCredit - apiUsage.getCost().total
+    };
+
+    // Load existing cost history if any
+    let costHistory = [];
+    if (fs.existsSync(CONFIG.costFile)) {
+        try {
+            costHistory = JSON.parse(fs.readFileSync(CONFIG.costFile, 'utf-8'));
+        } catch (e) {
+            costHistory = [];
+        }
+    }
+    costHistory.push(costData);
+    fs.writeFileSync(CONFIG.costFile, JSON.stringify(costHistory, null, 2));
+    console.log(`\n✓ Cost tracking saved to: ${CONFIG.costFile}`);
+
     console.log('='.repeat(60));
 }
 

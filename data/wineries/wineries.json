@@ -1,0 +1,3410 @@
+{
+  "metadata": {
+    "generatedAt": "2026-01-28T20:50:08.835Z",
+    "totalWineries": 151,
+    "source": "Google Places API",
+    "region": "Finger Lakes, NY"
+  },
+  "wineries": [
+    {
+      "name": "Three Brothers Wineries and Estates",
+      "originalSearchName": "3 Brothers Winery",
+      "address": "623 Lerch Rd, Geneva, NY 14456, USA",
+      "coordinates": {
+        "lat": 42.8231619,
+        "lng": -76.92305120000002
+      },
+      "phone": "(315) 585-4432",
+      "website": "http://www.3brotherswinery.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.6,
+      "reviewCount": 1741,
+      "placeId": "ChIJ4ZsHGRvE0IkRsLVDOibUpsU",
+      "googleMapsUrl": "https://maps.google.com/?cid=14242304132257134000",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:21.193Z"
+    },
+    {
+      "name": "Acquilano Wine Cellars",
+      "originalSearchName": "Acquilano Wine Cellars",
+      "address": "143 S Main St, Canandaigua, NY 14424, USA",
+      "coordinates": {
+        "lat": 42.8857809,
+        "lng": -77.2796721
+      },
+      "phone": "(585) 559-9214",
+      "website": "http://www.acquilanowinecellars.com/",
+      "hours": [
+        "Monday: 2:00 – 7:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 2:00 – 9:00 PM",
+        "Friday: 2:00 – 9:00 PM",
+        "Saturday: 12:00 – 9:00 PM",
+        "Sunday: 1:00 – 6:00 PM"
+      ],
+      "googleRating": 5,
+      "reviewCount": 7,
+      "placeId": "ChIJX8-OLeYn0YkR7FCLVIF9yzc",
+      "googleMapsUrl": "https://maps.google.com/?cid=4020445086780969196",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:21.781Z"
+    },
+    {
+      "name": "Ravines Wine Cellars",
+      "originalSearchName": "Agness Wine Cellars",
+      "address": "400 Barracks Rd, Geneva, NY 14456, USA",
+      "coordinates": {
+        "lat": 42.8445395,
+        "lng": -77.0010313
+      },
+      "phone": "(315) 781-7007",
+      "website": "http://www.ravineswine.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.3,
+      "reviewCount": 255,
+      "placeId": "ChIJC_-GD8_E0IkRwWQY_XJNpF0",
+      "googleMapsUrl": "https://maps.google.com/?cid=6747603297975690433",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "multiple_matches",
+      "notes": "Found 9 results. First: \"Ravines Wine Cellars\"",
+      "collectedAt": "2026-01-28T20:47:22.429Z"
+    },
+    {
+      "name": "Americana Vineyards Winery",
+      "originalSearchName": "Americana Vineyards",
+      "address": "4367 E Covert Rd, Interlaken, NY 14847, USA",
+      "coordinates": {
+        "lat": 42.575924,
+        "lng": -76.677017
+      },
+      "phone": "(607) 351-7223",
+      "website": "http://www.americanavineyards.com/",
+      "hours": null,
+      "googleRating": 4.2,
+      "reviewCount": 199,
+      "placeId": "ChIJ11V-aUWQ0IkRp1ZhJn5nQn8",
+      "googleMapsUrl": "https://maps.google.com/?cid=9170005582787204775",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:22.994Z"
+    },
+    {
+      "name": "Anthony Road Wine Company",
+      "originalSearchName": "Anthony Road Wine Company",
+      "address": "1020 Anthony Rd, Penn Yan, NY 14527, USA",
+      "coordinates": {
+        "lat": 42.705043,
+        "lng": -76.97353
+      },
+      "phone": "(315) 536-2182",
+      "website": "https://www.anthonyroadwine.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 183,
+      "placeId": "ChIJDabt81Ho0IkRwJjvlgXp2iE",
+      "googleMapsUrl": "https://maps.google.com/?cid=2439518358390937792",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:23.593Z"
+    },
+    {
+      "name": "Anyela's Vineyards",
+      "originalSearchName": "Anyela's Vineyards",
+      "address": "2433 W Lake Rd, Skaneateles, NY 13152, USA",
+      "coordinates": {
+        "lat": 42.888302,
+        "lng": -76.41820899999999
+      },
+      "phone": "(315) 685-3797",
+      "website": "http://www.anyelasvineyards.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 12:00 – 5:00 PM",
+        "Saturday: 12:00 – 6:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "googleRating": 4.6,
+      "reviewCount": 293,
+      "placeId": "ChIJyarohCMH2okRw0Z6arFetKU",
+      "googleMapsUrl": "https://maps.google.com/?cid=11940272628154648259",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:24.191Z"
+    },
+    {
+      "name": "Atwater Vineyards, LLC",
+      "originalSearchName": "Atwater Estate Vineyards",
+      "address": "5055 NY-414, Burdett, NY 14818, USA",
+      "coordinates": {
+        "lat": 42.47848210000001,
+        "lng": -76.869326
+      },
+      "phone": "(607) 546-8463",
+      "website": "http://www.atwatervineyards.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.5,
+      "reviewCount": 344,
+      "placeId": "ChIJf7r7VIr00IkR1W5Oxy40PkY",
+      "googleMapsUrl": "https://maps.google.com/?cid=5061540406727962325",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:25.468Z"
+    },
+    {
+      "name": "Azure Hill Winery",
+      "originalSearchName": "Azure Hill Winery",
+      "address": "8716 Gallagher Rd, Hammondsport, NY 14840, USA",
+      "coordinates": {
+        "lat": 42.497079,
+        "lng": -77.182176
+      },
+      "phone": "(607) 868-5702",
+      "website": "http://www.azurehillwinery.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.9,
+      "reviewCount": 134,
+      "placeId": "ChIJZ8JiGzL-0IkRnKh6Cw1EI2g",
+      "googleMapsUrl": "https://maps.google.com/?cid=7503916226947229852",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:26.093Z"
+    },
+    {
+      "name": "Bagley's Poplar Ridge Vineyards",
+      "originalSearchName": "Bagley's Poplar Ridge Vineyards",
+      "address": "9782 NY-414, Hector, NY 14841, USA",
+      "coordinates": {
+        "lat": 42.5509374,
+        "lng": -76.86920359999999
+      },
+      "phone": "(607) 582-6421",
+      "website": "http://bagleysprv.com/",
+      "hours": null,
+      "googleRating": 4.5,
+      "reviewCount": 139,
+      "placeId": "ChIJK4xpbl_y0IkRi90w2wiZP2Q",
+      "googleMapsUrl": "https://maps.google.com/?cid=7223660590641765771",
+      "businessStatus": "CLOSED_PERMANENTLY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:26.737Z"
+    },
+    {
+      "name": "Barnstormer Winery",
+      "originalSearchName": "Barnstormer Winery",
+      "address": "4184 NY-14, Rock Stream, NY 14878, USA",
+      "coordinates": {
+        "lat": 42.435741,
+        "lng": -76.906973
+      },
+      "phone": "(607) 243-4008",
+      "website": "http://www.barnstormerwinery.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 12:00 – 4:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:30 PM",
+        "Saturday: 10:30 AM – 5:30 PM",
+        "Sunday: 10:30 AM – 5:30 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 283,
+      "placeId": "ChIJ2yJlheX10IkR0F4ZicXW8JM",
+      "googleMapsUrl": "https://maps.google.com/?cid=10660256461883006672",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:27.899Z"
+    },
+    {
+      "name": "Randall-Standish Vineyards",
+      "originalSearchName": "Barrel Necessities",
+      "address": "5501 State Rte 21, Canandaigua, NY 14424, USA",
+      "coordinates": {
+        "lat": 42.7518442,
+        "lng": -77.36223919999999
+      },
+      "phone": "(585) 394-6420",
+      "website": "https://randallstandish.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 12:00 – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 22,
+      "placeId": "ChIJF2CXHDEY0YkR5PWM7eKuxnc",
+      "googleMapsUrl": "https://maps.google.com/?cid=8630778025573414372",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "multiple_matches",
+      "notes": "Found 20 results. First: \"Randall-Standish Vineyards\"",
+      "collectedAt": "2026-01-28T20:47:29.155Z"
+    },
+    {
+      "name": "Barrington Cellars",
+      "originalSearchName": "Barrington Cellars",
+      "address": "2794 Gray Rd, Penn Yan, NY 14527, USA",
+      "coordinates": {
+        "lat": 42.54932489999999,
+        "lng": -77.0904755
+      },
+      "phone": "(315) 531-8923",
+      "website": "http://www.barringtoncellars.com/",
+      "hours": null,
+      "googleRating": 3.6,
+      "reviewCount": 17,
+      "placeId": "ChIJU-kzDpD70IkRfXar58u85FM",
+      "googleMapsUrl": "https://maps.google.com/?cid=6045164183789205117",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:30.285Z"
+    },
+    {
+      "name": "Barry Family Cellars",
+      "originalSearchName": "Barry Family Cellars",
+      "address": "3050 Swick Rd, Ovid, NY 14521, USA",
+      "coordinates": {
+        "lat": 42.7231373,
+        "lng": -76.762913
+      },
+      "phone": "(607) 569-2352",
+      "website": "http://www.barryfamilywines.com/",
+      "hours": null,
+      "googleRating": 5,
+      "reviewCount": 32,
+      "placeId": "ChIJ5-LuiV310IkRkBkk-4K09to",
+      "googleMapsUrl": "https://maps.google.com/?cid=15777996819191306640",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:31.428Z"
+    },
+    {
+      "name": "Belhurst Castle and Winery",
+      "originalSearchName": "Belhurst Estate Winery",
+      "address": "4069 W Lake Rd, Geneva, NY 14456, USA",
+      "coordinates": {
+        "lat": 42.83913159999999,
+        "lng": -76.97486219999999
+      },
+      "phone": "(315) 781-0201",
+      "website": "http://www.belhurst.com/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "googleRating": 4,
+      "reviewCount": 1468,
+      "placeId": "ChIJFb1V3BvF0IkRkfwss_UYkk0",
+      "googleMapsUrl": "https://maps.google.com/?cid=5589557531072330897",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:32.664Z"
+    },
+    {
+      "name": "Missick Cellars F.K.A Villa Bellangelo Winery",
+      "originalSearchName": "Bellangelo Winery",
+      "address": "150 Poplar Point Rd, Dundee, NY 14837, USA",
+      "coordinates": {
+        "lat": 42.5665363,
+        "lng": -76.9176791
+      },
+      "phone": "(607) 243-8602",
+      "website": "http://www.missickcellars.com/",
+      "hours": null,
+      "googleRating": 4.5,
+      "reviewCount": 85,
+      "placeId": "ChIJpcEYex3y0IkRxWVPpUfzyEc",
+      "googleMapsUrl": "https://maps.google.com/?cid=5172651661076686277",
+      "businessStatus": "CLOSED_PERMANENTLY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:33.928Z"
+    },
+    {
+      "name": "Bet the Farm Winery",
+      "originalSearchName": "Bet the Farm Winery",
+      "address": "4204 Krums Corners Rd, Trumansburg, NY 14886, USA",
+      "coordinates": {
+        "lat": 42.5017248,
+        "lng": -76.57378849999999
+      },
+      "phone": "(607) 387-6548",
+      "website": "http://www.btfwines.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 179,
+      "placeId": "ChIJ5bblb0-80IkRTGF5s9TI6uE",
+      "googleMapsUrl": "https://maps.google.com/?cid=16279044618953777484",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:36.252Z"
+    },
+    {
+      "name": "Billsboro Winery",
+      "originalSearchName": "Billsboro Winery",
+      "address": "4760 W Lake Rd, Geneva, NY 14456, USA",
+      "coordinates": {
+        "lat": 42.7985969,
+        "lng": -76.9793159
+      },
+      "phone": "(315) 789-9538",
+      "website": "http://www.billsborowinery.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.6,
+      "reviewCount": 233,
+      "placeId": "ChIJ72T2PW3D0IkRxi3O_VE3zpU",
+      "googleMapsUrl": "https://maps.google.com/?cid=10794626182143684038",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:37.275Z"
+    },
+    {
+      "name": "Black Diamond Farm and Cider",
+      "originalSearchName": "Black Diamond Farm",
+      "address": "4675 E Seneca Rd, Trumansburg, NY 14886, USA",
+      "coordinates": {
+        "lat": 42.5478636,
+        "lng": -76.6572048
+      },
+      "phone": "(607) 279-5112",
+      "website": "http://www.blackdiamondcider.com/",
+      "hours": null,
+      "googleRating": 5,
+      "reviewCount": 54,
+      "placeId": "ChIJOYYssHiR0IkRGpHwfuxfeY8",
+      "googleMapsUrl": "https://maps.google.com/?cid=10338399888952299802",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:38.476Z"
+    },
+    {
+      "name": "Bloomer Creek Vineyard",
+      "originalSearchName": "Bloomer Creek Vineyard",
+      "address": "5301 NY-414, Hector, NY 14841, USA",
+      "coordinates": {
+        "lat": 42.4896627,
+        "lng": -76.8702328
+      },
+      "phone": "(607) 546-5002",
+      "website": "http://www.bloomercreek.com/",
+      "hours": null,
+      "googleRating": 4.7,
+      "reviewCount": 29,
+      "placeId": "ChIJ7YeCton00IkR96tqIzzo2Ss",
+      "googleMapsUrl": "https://maps.google.com/?cid=3159811958566988791",
+      "businessStatus": "CLOSED_PERMANENTLY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:39.511Z"
+    },
+    {
+      "name": "Boundary Breaks Vineyard",
+      "originalSearchName": "Boundary Breaks Vineyard",
+      "address": "1568 Porter Covert Rd, Lodi, NY 14860, USA",
+      "coordinates": {
+        "lat": 42.629331,
+        "lng": -76.8641699
+      },
+      "phone": "(607) 474-5030",
+      "website": "https://boundarybreaks.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.6,
+      "reviewCount": 408,
+      "placeId": "ChIJh4LZh_Ts0IkRu8mChC9Qhck",
+      "googleMapsUrl": "https://maps.google.com/?cid=14521100738542881211",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:40.815Z"
+    },
+    {
+      "name": "Bully Hill Vineyards",
+      "originalSearchName": "Bully Hill Vineyards",
+      "address": "8843 Greyton H Taylor Memorial Dr, Hammondsport, NY 14840, USA",
+      "coordinates": {
+        "lat": 42.4293616,
+        "lng": -77.20908349999999
+      },
+      "phone": "(607) 868-3610",
+      "website": "http://www.bullyhillvineyards.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 672,
+      "placeId": "ChIJoXQfILqq0YkR_zgEa0XB3tk",
+      "googleMapsUrl": "https://maps.google.com/?cid=15699197854952470783",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:42.223Z"
+    },
+    {
+      "name": "Buttonwood Grove Winery",
+      "originalSearchName": "Buttonwood Grove Winery",
+      "address": "5986 NY-89, Romulus, NY 14541, USA",
+      "coordinates": {
+        "lat": 42.7326916,
+        "lng": -76.7706247
+      },
+      "phone": "(607) 869-9760",
+      "website": "https://buttonwoodgrove.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.8,
+      "reviewCount": 392,
+      "placeId": "ChIJGahYEDi-0IkRY1ipX1gh4m8",
+      "googleMapsUrl": "https://maps.google.com/?cid=8062042946392381539",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:43.407Z"
+    },
+    {
+      "name": "CJS Vineyards",
+      "originalSearchName": "CJ's Vineyards",
+      "address": "6900 Fosterville Rd, Auburn, NY 13021, USA",
+      "coordinates": {
+        "lat": 42.951377,
+        "lng": -76.6699896
+      },
+      "phone": "(315) 730-4619",
+      "website": "http://www.cjsvineyards.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 12:00 – 4:00 PM",
+        "Sunday: 12:00 – 4:00 PM"
+      ],
+      "googleRating": 5,
+      "reviewCount": 52,
+      "placeId": "ChIJadcpQnWz0IkRv_QthZ4CHV0",
+      "googleMapsUrl": "https://maps.google.com/?cid=6709521899714376895",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:44.443Z"
+    },
+    {
+      "name": "Torrey Ridge Winery",
+      "originalSearchName": "CK Torrey Ridge Winery & Meadery",
+      "address": "2770 NY-14, Penn Yan, NY 14527, USA",
+      "coordinates": {
+        "lat": 42.6300744,
+        "lng": -76.9452432
+      },
+      "phone": "(315) 536-1210",
+      "website": "https://www.ckcellars.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: Closed",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 3.9,
+      "reviewCount": 213,
+      "placeId": "ChIJ2Ye9uPHu0IkRrrCSArH_Ky8",
+      "googleMapsUrl": "https://maps.google.com/?cid=3399091479498633390",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:45.645Z"
+    },
+    {
+      "name": "Casa Larga Vineyards",
+      "originalSearchName": "Casa Larga Vineyards",
+      "address": "2287 Turk Hill Rd, Fairport, NY 14450, USA",
+      "coordinates": {
+        "lat": 43.051453,
+        "lng": -77.432665
+      },
+      "phone": "(585) 223-4210",
+      "website": "http://www.casalarga.com/",
+      "hours": [
+        "Monday: 11:00 AM – 6:00 PM",
+        "Tuesday: 11:00 AM – 6:00 PM",
+        "Wednesday: 11:00 AM – 6:00 PM",
+        "Thursday: 11:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "googleRating": 4.6,
+      "reviewCount": 228,
+      "placeId": "ChIJTZtp3a8z0YkRiVZ-Kdx2uuo",
+      "googleMapsUrl": "https://maps.google.com/?cid=16913962038504347273",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:46.854Z"
+    },
+    {
+      "name": "Castel Grisch Winery",
+      "originalSearchName": "Castel Grisch Winery",
+      "address": "3380 County Rd 28, Watkins Glen, NY 14891, USA",
+      "coordinates": {
+        "lat": 42.396767,
+        "lng": -76.901166
+      },
+      "phone": "(607) 535-9614",
+      "website": "https://castelgrisch.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.5,
+      "reviewCount": 440,
+      "placeId": "ChIJT1bMGDlf0IkRAbTrxOQue2E",
+      "googleMapsUrl": "https://maps.google.com/?cid=7024259603905623041",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:48.179Z"
+    },
+    {
+      "name": "Catharine Valley Winery",
+      "originalSearchName": "Catharine Valley Winery",
+      "address": "4201 NY-414, Burdett, NY 14818, USA",
+      "coordinates": {
+        "lat": 42.4371168,
+        "lng": -76.86411079999999
+      },
+      "phone": "(607) 546-5300",
+      "website": "http://catharinevalley.com/",
+      "hours": null,
+      "googleRating": 4,
+      "reviewCount": 120,
+      "placeId": "ChIJO_vT1wz10IkRr67leonRJBg",
+      "googleMapsUrl": "https://maps.google.com/?cid=1739745744474451631",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:49.314Z"
+    },
+    {
+      "name": "Cayuga Ridge Estate Winery",
+      "originalSearchName": "Cayuga Ridge Estate Winery",
+      "address": "6800 Elm Beach Rd, Ovid, NY 14521, USA",
+      "coordinates": {
+        "lat": 42.6945836,
+        "lng": -76.7439081
+      },
+      "phone": "(607) 869-5158",
+      "website": "https://www.cayugaridgewinery.com/",
+      "hours": [
+        "Monday: 10:30 AM – 4:30 PM",
+        "Tuesday: 10:30 AM – 4:30 PM",
+        "Wednesday: 10:30 AM – 4:30 PM",
+        "Thursday: 10:30 AM – 4:30 PM",
+        "Friday: 10:30 AM – 4:30 PM",
+        "Saturday: 10:30 AM – 4:30 PM",
+        "Sunday: 10:30 AM – 4:30 PM"
+      ],
+      "googleRating": 4.2,
+      "reviewCount": 71,
+      "placeId": "ChIJXfSaBcKV0IkRphDn3e8i7Zs",
+      "googleMapsUrl": "https://maps.google.com/?cid=11235675058974691494",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:50.535Z"
+    },
+    {
+      "name": "Caywood Vineyards",
+      "originalSearchName": "Caywood Vineyards",
+      "address": "9666 NY-414, Lodi, NY 14860, USA",
+      "coordinates": {
+        "lat": 42.5562848,
+        "lng": -76.8664883
+      },
+      "phone": "(607) 582-7230",
+      "website": "http://www.caywoodvineyards.com/",
+      "hours": null,
+      "googleRating": 4.1,
+      "reviewCount": 132,
+      "placeId": "ChIJw0BRBYzy0IkRETcztBrIMiU",
+      "googleMapsUrl": "https://maps.google.com/?cid=2680424745256826641",
+      "businessStatus": "CLOSED_PERMANENTLY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:51.633Z"
+    },
+    {
+      "name": "Chateau Dusseau",
+      "originalSearchName": "Chateau Dusseau",
+      "address": "5292 Erron Hill Rd, Locke, NY 13092, USA",
+      "coordinates": {
+        "lat": 42.6642296,
+        "lng": -76.3915869
+      },
+      "phone": "(315) 497-9463",
+      "website": "http://chateaudusseau.com/",
+      "hours": null,
+      "googleRating": 4.9,
+      "reviewCount": 54,
+      "placeId": "ChIJF8QGMs902okRKWbV2g4l97c",
+      "googleMapsUrl": "https://maps.google.com/?cid=13256104773919532585",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:52.883Z"
+    },
+    {
+      "name": "Chateau LaFayette Reneau",
+      "originalSearchName": "Chateau LaFayette Reneau",
+      "address": "5081 NY-414, Hector, NY 14841, USA",
+      "coordinates": {
+        "lat": 42.4799915,
+        "lng": -76.86969549999999
+      },
+      "phone": "(607) 546-2062",
+      "website": "http://www.clrwine.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 4:00 PM"
+      ],
+      "googleRating": 4.3,
+      "reviewCount": 195,
+      "placeId": "ChIJ_ZNUj4n00IkR30BSs9RvHXs",
+      "googleMapsUrl": "https://maps.google.com/?cid=8871369800322007263",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:55.300Z"
+    },
+    {
+      "name": "Chateau Renaissance Wine Cellars",
+      "originalSearchName": "Chateau Renaissance Wine Cellars",
+      "address": "7494 Fish Hatchery Rd, Bath, NY 14810, USA",
+      "coordinates": {
+        "lat": 42.3861273,
+        "lng": -77.2644854
+      },
+      "phone": "(607) 569-3609",
+      "website": "http://www.chateaurenaissancewinecellars.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "googleRating": 4.2,
+      "reviewCount": 70,
+      "placeId": "ChIJ7zq8W_Wr0YkR5JMPuBlJ-wE",
+      "googleMapsUrl": "https://maps.google.com/?cid=142788188003341284",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:56.448Z"
+    },
+    {
+      "name": "Colloca Estate Winery",
+      "originalSearchName": "Colloca Estate Winery",
+      "address": "14678 W Bay Rd, Sterling, NY 13156, USA",
+      "coordinates": {
+        "lat": 43.3242698,
+        "lng": -76.7188388
+      },
+      "phone": "(315) 947-2069",
+      "website": "http://www.collocawines.com/",
+      "hours": [
+        "Monday: 12:00 – 6:00 PM",
+        "Tuesday: 12:00 – 6:00 PM",
+        "Wednesday: 12:00 – 9:00 PM",
+        "Thursday: 12:00 – 9:00 PM",
+        "Friday: 12:00 – 11:30 PM",
+        "Saturday: 12:00 – 11:30 PM",
+        "Sunday: 12:00 – 9:00 PM"
+      ],
+      "googleRating": 4.5,
+      "reviewCount": 283,
+      "placeId": "ChIJZ9FNX-Np14kRXW6dVdrejbE",
+      "googleMapsUrl": "https://maps.google.com/?cid=12794127145750064733",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:47:57.787Z"
+    },
+    {
+      "name": "The Hidden Cork (formerly Over The Bridge Wine Bar)",
+      "originalSearchName": "Cork49 Wine Bar",
+      "address": "54 Pulteney St, Hammondsport, NY 14840, USA",
+      "coordinates": {
+        "lat": 42.4104652,
+        "lng": -77.22219079999999
+      },
+      "phone": "(607) 569-7003",
+      "website": "http://thehiddencorkbar.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 4:00 – 10:00 PM",
+        "Thursday: 4:00 – 10:00 PM",
+        "Friday: 4:00 – 10:00 PM",
+        "Saturday: 2:00 – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "googleRating": 4.9,
+      "reviewCount": 49,
+      "placeId": "ChIJY0aG5hmr0YkRuaJeig5OtV0",
+      "googleMapsUrl": "https://maps.google.com/?cid=6752389040669893305",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "multiple_matches",
+      "notes": "Found 16 results. First: \"The Hidden Cork (formerly Over The Bridge Wine Bar)\"",
+      "collectedAt": "2026-01-28T20:47:59.065Z"
+    },
+    {
+      "name": "Damiani Wine Cellars",
+      "originalSearchName": "Damiani Wine Cellars",
+      "address": "4704 NY-414, Burdett, NY 14818, USA",
+      "coordinates": {
+        "lat": 42.4614154,
+        "lng": -76.864019
+      },
+      "phone": "(607) 546-5557",
+      "website": "http://www.damianiwinecellars.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 250,
+      "placeId": "ChIJRUjpBILz0IkRENKE-BIWo-c",
+      "googleMapsUrl": "https://maps.google.com/?cid=16691208914699866640",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:00.310Z"
+    },
+    {
+      "name": "Deer Run Winery",
+      "originalSearchName": "Deer Run Winery",
+      "address": "3772 W Lake Rd, Geneseo, NY 14454, USA",
+      "coordinates": {
+        "lat": 42.8222248,
+        "lng": -77.717699
+      },
+      "phone": "(585) 346-0850",
+      "website": "http://www.deerrunwinery.com/",
+      "hours": [
+        "Monday: 12:00 – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 12:00 – 6:00 PM",
+        "Friday: 12:00 – 7:00 PM",
+        "Saturday: 12:00 – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 236,
+      "placeId": "ChIJE-nzMJ5C0YkRyLTp_NdK6UM",
+      "googleMapsUrl": "https://maps.google.com/?cid=4893524761636353224",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:01.551Z"
+    },
+    {
+      "name": "Domaine Leseurre Winery",
+      "originalSearchName": "Domaine LeSeurre Winery",
+      "address": "13920 NY-54, Hammondsport, NY 14840, USA",
+      "coordinates": {
+        "lat": 42.4840183,
+        "lng": -77.1384432
+      },
+      "phone": "(607) 292-3920",
+      "website": "https://dlwinery.com/",
+      "hours": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 196,
+      "placeId": "ChIJFc3WCAP_0IkRRiAJcFUs4uw",
+      "googleMapsUrl": "https://maps.google.com/?cid=17069254283151089734",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:02.792Z"
+    },
+    {
+      "name": "Dr. Konstantin Frank Winery",
+      "originalSearchName": "Dr. Konstantin Frank Winery",
+      "address": "9749 Middle Rd, Hammondsport, NY 14840, USA",
+      "coordinates": {
+        "lat": 42.473507,
+        "lng": -77.1840331
+      },
+      "phone": "(800) 320-0735",
+      "website": "http://www.drfrankwines.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 1022,
+      "placeId": "ChIJXYjYlsL_0IkRPIGyX1awZbQ",
+      "googleMapsUrl": "https://maps.google.com/?cid=12998989784494014780",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:03.855Z"
+    },
+    {
+      "name": "F.L.X. Provisions",
+      "originalSearchName": "Element Winery",
+      "address": "18 Linden St, Geneva, NY 14456, USA",
+      "coordinates": {
+        "lat": 42.8676175,
+        "lng": -76.9834935
+      },
+      "phone": "(315) 730-3083",
+      "website": "https://flxprovisions.com/",
+      "hours": [
+        "Monday: 2:00 – 8:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 2:00 – 8:00 PM",
+        "Friday: 2:00 – 9:00 PM",
+        "Saturday: 2:00 – 9:00 PM",
+        "Sunday: 2:00 – 8:00 PM"
+      ],
+      "googleRating": 4.5,
+      "reviewCount": 45,
+      "placeId": "ChIJ37p77hbF0IkRp-zY1e9xAn4",
+      "googleMapsUrl": "https://maps.google.com/?cid=9079945073631227047",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "multiple_matches",
+      "notes": "Found 2 results. First: \"F.L.X. Provisions\"",
+      "collectedAt": "2026-01-28T20:48:06.230Z"
+    },
+    {
+      "name": "Finger Lakes Cider House",
+      "originalSearchName": "Finger Lakes Cider House",
+      "address": "4017 Hickok Rd, Interlaken, NY 14847, USA",
+      "coordinates": {
+        "lat": 42.6083183,
+        "lng": -76.6990162
+      },
+      "phone": "(607) 351-3313",
+      "website": "https://fingerlakesciderhouse.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 568,
+      "placeId": "ChIJ0fSvJReR0IkRPgbx0Jt8TV4",
+      "googleMapsUrl": "https://maps.google.com/?cid=6795224421439178302",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:07.435Z"
+    },
+    {
+      "name": "Flatt Rock Wine Cellars",
+      "originalSearchName": "Flatt Rock Wine Cellars",
+      "address": "5835 Spirawk Rd, Valois, NY 14841, USA",
+      "coordinates": {
+        "lat": 42.5198895,
+        "lng": -76.8784474
+      },
+      "phone": "(716) 622-2820",
+      "website": "http://flattrockwinecellars.com/",
+      "hours": null,
+      "googleRating": 4.8,
+      "reviewCount": 78,
+      "placeId": "ChIJqW9p8aPz0IkREqWRBR79UCo",
+      "googleMapsUrl": "https://maps.google.com/?cid=3049215253114103058",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:08.684Z"
+    },
+    {
+      "name": "Forge Cellars",
+      "originalSearchName": "Forge Cellars",
+      "address": "3775 Mathews Rd, Burdett, NY 14818, USA",
+      "coordinates": {
+        "lat": 42.48222699999999,
+        "lng": -76.861008
+      },
+      "phone": "(607) 622-8020",
+      "website": "http://www.forgecellars.com/",
+      "hours": null,
+      "googleRating": 4.7,
+      "reviewCount": 134,
+      "placeId": "ChIJX262LI700IkR_oh3wtAjjdw",
+      "googleMapsUrl": "https://maps.google.com/?cid=15892398039583131902",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:09.952Z"
+    },
+    {
+      "name": "J.R. Dill Winery",
+      "originalSearchName": "Fossil & Till",
+      "address": "4922 NY-414, Burdett, NY 14818, USA",
+      "coordinates": {
+        "lat": 42.4723111,
+        "lng": -76.86633479999999
+      },
+      "phone": "(607) 546-5757",
+      "website": "http://www.jrdillwinery.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 204,
+      "placeId": "ChIJI079P_T00IkR23XQGEYGWcg",
+      "googleMapsUrl": "https://maps.google.com/?cid=14436576978646627803",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "multiple_matches",
+      "notes": "Found 18 results. First: \"J.R. Dill Winery\"",
+      "collectedAt": "2026-01-28T20:48:11.297Z"
+    },
+    {
+      "name": "Fox Run Vineyards",
+      "originalSearchName": "Fox Run Vineyards",
+      "address": "670 NY-14, Penn Yan, NY 14527, USA",
+      "coordinates": {
+        "lat": 42.7309891,
+        "lng": -76.9724494
+      },
+      "phone": "(315) 536-4616",
+      "website": "http://www.foxrunvineyards.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 538,
+      "placeId": "ChIJ1dtW6i7o0IkRVmjNcO2avVY",
+      "googleMapsUrl": "https://maps.google.com/?cid=6250322202450552918",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:12.433Z"
+    },
+    {
+      "name": "Frontenac Point Vineyard & Estate Winery",
+      "originalSearchName": "Frontenac Point Vineyard",
+      "address": "9501 NY-89, Trumansburg, NY 14886, USA",
+      "coordinates": {
+        "lat": 42.56530679999999,
+        "lng": -76.6482554
+      },
+      "phone": "(607) 387-9619",
+      "website": "https://frontenacpoint.com/",
+      "hours": null,
+      "googleRating": 4.7,
+      "reviewCount": 66,
+      "placeId": "ChIJV_8Y2gyQ0IkRiKuVTdCv7zw",
+      "googleMapsUrl": "https://maps.google.com/?cid=4390921470899235720",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:13.604Z"
+    },
+    {
+      "name": "Fruit Yard Winery",
+      "originalSearchName": "Fruit Yard Winery",
+      "address": "5060 NY-14, Dundee, NY 14837, USA",
+      "coordinates": {
+        "lat": 42.5223459,
+        "lng": -76.9209049
+      },
+      "phone": "(607) 243-8866",
+      "website": "https://fruityardwinery.com/",
+      "hours": null,
+      "googleRating": 4.1,
+      "reviewCount": 73,
+      "placeId": "ChIJeTPhXGDx0IkRO4s97QrOL5Q",
+      "googleMapsUrl": "https://maps.google.com/?cid=10677979787843963707",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:14.806Z"
+    },
+    {
+      "name": "Fulkerson Winery",
+      "originalSearchName": "Fulkerson Winery",
+      "address": "5576 NY-14, Dundee, NY 14837, USA",
+      "coordinates": {
+        "lat": 42.492661,
+        "lng": -76.9243894
+      },
+      "phone": "(607) 243-7883",
+      "website": "https://www.fulkersonwinery.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 308,
+      "placeId": "ChIJuSW_La_20IkR4NTrMi_u1hI",
+      "googleMapsUrl": "https://maps.google.com/?cid=1357534224183973088",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:16.076Z"
+    },
+    {
+      "name": "Graft Wine + Cider Bar",
+      "originalSearchName": "GRAFT wine + cider bar",
+      "address": "204 N Franklin St, Watkins Glen, NY 14891, USA",
+      "coordinates": {
+        "lat": 42.3816986,
+        "lng": -76.87387079999999
+      },
+      "phone": "(607) 210-4324",
+      "website": "http://graftwineciderbar.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 4:00 – 9:00 PM",
+        "Thursday: 4:00 – 9:00 PM",
+        "Friday: 4:00 – 9:00 PM",
+        "Saturday: 4:00 – 9:00 PM",
+        "Sunday: Closed"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 301,
+      "placeId": "ChIJrS3xXABf0IkRvr-k4P_4zxg",
+      "googleMapsUrl": "https://maps.google.com/?cid=1787921354958618558",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:17.555Z"
+    },
+    {
+      "name": "Glenhaven Farm",
+      "originalSearchName": "Glenhaven Farm",
+      "address": "6121 Sirrine Rd, Trumansburg, NY 14886, USA",
+      "coordinates": {
+        "lat": 42.507691,
+        "lng": -76.710634
+      },
+      "phone": "(607) 387-9031",
+      "website": "http://glenhavenfarm.com/",
+      "hours": null,
+      "googleRating": 4.6,
+      "reviewCount": 17,
+      "placeId": "ChIJ5-3DLI2O0IkRQ7wCf-_sodg",
+      "googleMapsUrl": "https://maps.google.com/?cid=15610018296815074371",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:18.832Z"
+    },
+    {
+      "name": "Lakewood Vineyards",
+      "originalSearchName": "Greenwood Winery & Bistro",
+      "address": "4024 NY-14, Watkins Glen, NY 14891, USA",
+      "coordinates": {
+        "lat": 42.4288566,
+        "lng": -76.9053784
+      },
+      "phone": "(607) 535-9252",
+      "website": "https://www.lakewoodvineyards.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 567,
+      "placeId": "ChIJbdCPUvf10IkRyIbGKwkZxwM",
+      "googleMapsUrl": "https://maps.google.com/?cid=272213829659035336",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "multiple_matches",
+      "notes": "Found 20 results. First: \"Lakewood Vineyards\"",
+      "collectedAt": "2026-01-28T20:48:21.033Z"
+    },
+    {
+      "name": "Hazlitt 1852 Vineyards",
+      "originalSearchName": "Hazlitt 1852 Vineyards",
+      "address": "5712 NY-414, Hector, NY 14841, USA",
+      "coordinates": {
+        "lat": 42.5105896,
+        "lng": -76.8760337
+      },
+      "phone": "(607) 546-9463",
+      "website": "https://www.hazlitt1852.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 511,
+      "placeId": "ChIJF7zAGZzz0IkRGrSfgbI3oRc",
+      "googleMapsUrl": "https://maps.google.com/?cid=1702703373941191706",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:22.070Z"
+    },
+    {
+      "name": "Hazlitt Red Cat Cellars",
+      "originalSearchName": "Hazlitt's Red Cat Cellars",
+      "address": "1 Lake Niagara Ln, Naples, NY 14512, USA",
+      "coordinates": {
+        "lat": 42.62467119999999,
+        "lng": -77.4023251
+      },
+      "phone": "(585) 531-3117",
+      "website": "http://www.hazlitt1852.com/locations/naples-ny",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.5,
+      "reviewCount": 148,
+      "placeId": "ChIJK1J2zMIP0YkRzBY0U04jEUc",
+      "googleMapsUrl": "https://maps.google.com/?cid=5120913070607308492",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:23.324Z"
+    },
+    {
+      "name": "Heart & Hands Wine Company",
+      "originalSearchName": "Heart & Hands Wine Company",
+      "address": "4162 NY-90, Union Springs, NY 13160, USA",
+      "coordinates": {
+        "lat": 42.819355,
+        "lng": -76.698647
+      },
+      "phone": "(315) 889-8500",
+      "website": "https://www.heartandhandswine.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 12:00 – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "googleRating": 4.6,
+      "reviewCount": 65,
+      "placeId": "ChIJBfzMeK270IkRCT8dKEIIb_U",
+      "googleMapsUrl": "https://maps.google.com/?cid=17685363341941096201",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:24.553Z"
+    },
+    {
+      "name": "Hermann J. Wiemer Vineyard",
+      "originalSearchName": "Hermann J. Wiemer Vineyard",
+      "address": "3962 NY-14, Dundee, NY 14837, USA",
+      "coordinates": {
+        "lat": 42.5720217,
+        "lng": -76.92809849999999
+      },
+      "phone": "(607) 243-7971",
+      "website": "https://www.wiemer.com/",
+      "hours": [
+        "Monday: 10:30 AM – 5:00 PM",
+        "Tuesday: 10:30 AM – 5:00 PM",
+        "Wednesday: 10:30 AM – 5:00 PM",
+        "Thursday: 10:30 AM – 5:00 PM",
+        "Friday: 10:30 AM – 5:00 PM",
+        "Saturday: 10:30 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 456,
+      "placeId": "ChIJTZYUJuPx0IkRb0aEp1cn4YM",
+      "googleMapsUrl": "https://maps.google.com/?cid=9502919946154559087",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:26.157Z"
+    },
+    {
+      "name": "Heron Hill Winery",
+      "originalSearchName": "Heron Hill Winery",
+      "address": "9301 Co Rd 76, Hammondsport, NY 14840, USA",
+      "coordinates": {
+        "lat": 42.4498966,
+        "lng": -77.201624
+      },
+      "phone": "(607) 868-4241",
+      "website": "http://www.heronhill.com/",
+      "hours": [
+        "Monday: 10:00 AM – 4:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 10:00 AM – 4:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "googleRating": 4.3,
+      "reviewCount": 334,
+      "placeId": "ChIJjQkWk66q0YkRNZNV-WitzD4",
+      "googleMapsUrl": "https://maps.google.com/?cid=4525182391971844917",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:27.483Z"
+    },
+    {
+      "name": "Heron Hill Tasting Room at Canandaigua Lake",
+      "originalSearchName": "Heron Hill at Bristol",
+      "address": "5323 Seneca Point Rd, Canandaigua, NY 14424, USA",
+      "coordinates": {
+        "lat": 42.7625915,
+        "lng": -77.3364381
+      },
+      "phone": "(585) 394-0173",
+      "website": "http://www.heronhill.com/",
+      "hours": [
+        "Monday: 11:00 AM – 4:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 11:00 AM – 4:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "googleRating": 4.5,
+      "reviewCount": 313,
+      "placeId": "ChIJLUPU92AY0YkR7tWpvo7j6W0",
+      "googleMapsUrl": "https://maps.google.com/?cid=7920111621931390446",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:28.665Z"
+    },
+    {
+      "name": "Hometown Wine Company",
+      "originalSearchName": "Hometown Wine Company",
+      "address": "203 N Main St, Naples, NY 14512, USA",
+      "coordinates": {
+        "lat": 42.6264376,
+        "lng": -77.3944696
+      },
+      "phone": "(585) 233-1319",
+      "website": "https://www.hometownwineco.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "googleRating": 5,
+      "reviewCount": 3,
+      "placeId": "ChIJK9lDGb0P0YkRdT5iJoErAY0",
+      "googleMapsUrl": "https://maps.google.com/?cid=10160450068019297909",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:30.630Z"
+    },
+    {
+      "name": "Hosmer Winery",
+      "originalSearchName": "Hosmer Winery",
+      "address": "7020 NY-89, Ovid, NY 14521, USA",
+      "coordinates": {
+        "lat": 42.6840282,
+        "lng": -76.74526259999999
+      },
+      "phone": "(607) 869-3393",
+      "website": "http://hosmerwinery.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 180,
+      "placeId": "ChIJMRgfe9mV0IkRywQh_p_ssjc",
+      "googleMapsUrl": "https://maps.google.com/?cid=4013530389848065227",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:31.722Z"
+    },
+    {
+      "name": "Inspire Moore Winery, Vineyard & Venue",
+      "originalSearchName": "Inspire Moore Winery",
+      "address": "197 N Main St, Naples, NY 14512, USA",
+      "coordinates": {
+        "lat": 42.62522149999999,
+        "lng": -77.3948381
+      },
+      "phone": "(585) 374-5970",
+      "website": "http://inspiremoorewinery.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 255,
+      "placeId": "ChIJ92XELeQP0YkRdz4sLHWiSIA",
+      "googleMapsUrl": "https://maps.google.com/?cid=9243816859313913463",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:34.710Z"
+    },
+    {
+      "name": "Izzo's White Barn Winery",
+      "originalSearchName": "Izzo's White Barn Winery",
+      "address": "6634 Cayuga Rd, Cayuga, NY 13034, USA",
+      "coordinates": {
+        "lat": 42.9383944,
+        "lng": -76.7057274
+      },
+      "phone": "(315) 283-8095",
+      "website": "http://www.izzoswhitebarnwinery.com/",
+      "hours": null,
+      "googleRating": 4.9,
+      "reviewCount": 44,
+      "placeId": "ChIJ1-Q_2d6z0IkRi4sCFBtZMSo",
+      "googleMapsUrl": "https://maps.google.com/?cid=3040309196286495627",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:35.842Z"
+    },
+    {
+      "name": "J.R. Dill Winery",
+      "originalSearchName": "J.R. Dill Winery",
+      "address": "4922 NY-414, Burdett, NY 14818, USA",
+      "coordinates": {
+        "lat": 42.4723111,
+        "lng": -76.86633479999999
+      },
+      "phone": "(607) 546-5757",
+      "website": "http://www.jrdillwinery.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 204,
+      "placeId": "ChIJI079P_T00IkR23XQGEYGWcg",
+      "googleMapsUrl": "https://maps.google.com/?cid=14436576978646627803",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:36.816Z"
+    },
+    {
+      "name": "Red Newt Cellars",
+      "originalSearchName": "Kelby James Russell",
+      "address": "3675 Tichenor Rd, Hector, NY 14841, USA",
+      "coordinates": {
+        "lat": 42.501911,
+        "lng": -76.867181
+      },
+      "phone": "(607) 546-4100",
+      "website": "https://rednewt.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 229,
+      "placeId": "ChIJHQVjZHnz0IkRLWeNFf-SO-A",
+      "googleMapsUrl": "https://maps.google.com/?cid=16157669712397690669",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "multiple_matches",
+      "notes": "Found 18 results. First: \"Red Newt Cellars\"",
+      "collectedAt": "2026-01-28T20:48:38.029Z"
+    },
+    {
+      "name": "Kemmeter Wines",
+      "originalSearchName": "Kemmeter Wines",
+      "address": "1030 Larzelere Rd, Penn Yan, NY 14527, USA",
+      "coordinates": {
+        "lat": 42.7074376,
+        "lng": -76.9781156
+      },
+      "phone": "(315) 521-3897",
+      "website": "http://www.kemmeterwines.com/",
+      "hours": null,
+      "googleRating": 4.9,
+      "reviewCount": 124,
+      "placeId": "ChIJnz-711vo0IkR-5THn9NYlpA",
+      "googleMapsUrl": "https://maps.google.com/?cid=10418612453910222075",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:39.173Z"
+    },
+    {
+      "name": "Keuka Lake Vineyards",
+      "originalSearchName": "Keuka Lake Vineyards",
+      "address": "8882 Co Rd 76, Hammondsport, NY 14840, USA",
+      "coordinates": {
+        "lat": 42.4308999,
+        "lng": -77.2007131
+      },
+      "phone": "(607) 868-4100",
+      "website": "http://klvineyards.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 126,
+      "placeId": "ChIJn_PSBcyq0YkRHWPty6I0AgA",
+      "googleMapsUrl": "https://maps.google.com/?cid=620823764099869",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:40.372Z"
+    },
+    {
+      "name": "Keuka Spring Vineyards",
+      "originalSearchName": "Keuka Spring Vineyards",
+      "address": "243 Route 54, East Lake Rd, Penn Yan, NY 14527, USA",
+      "coordinates": {
+        "lat": 42.6263804,
+        "lng": -77.06741749999999
+      },
+      "phone": "(315) 536-3147",
+      "website": "http://www.keukaspringvineyards.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.8,
+      "reviewCount": 439,
+      "placeId": "ChIJr05cGjXk0IkRqL-TmED_UIs",
+      "googleMapsUrl": "https://maps.google.com/?cid=10038804222311645096",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:41.653Z"
+    },
+    {
+      "name": "Treleaven Wines",
+      "originalSearchName": "King Ferry Winery",
+      "address": "658 Lake Rd, King Ferry, NY 13081, USA",
+      "coordinates": {
+        "lat": 42.6499963,
+        "lng": -76.63469289999999
+      },
+      "phone": "(315) 364-5100",
+      "website": "https://treleavenwines.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 12:00 – 5:00 PM",
+        "Friday: 12:00 – 8:00 PM",
+        "Saturday: 12:00 – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 250,
+      "placeId": "ChIJ86N-DtqZ0IkR9ets0kZO3Sw",
+      "googleMapsUrl": "https://maps.google.com/?cid=3232826173606915061",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "multiple_matches",
+      "notes": "Found 7 results. First: \"Treleaven Wines\"",
+      "collectedAt": "2026-01-28T20:48:42.760Z"
+    },
+    {
+      "name": "Kings Garden Vineyards",
+      "originalSearchName": "Kings Garden Vineyards",
+      "address": "9059 NY-414, Lodi, NY 14860, USA",
+      "coordinates": {
+        "lat": 42.5840665,
+        "lng": -76.8529016
+      },
+      "phone": "(607) 582-7444",
+      "website": "http://kingsgardenvineyards.com/",
+      "hours": null,
+      "googleRating": null,
+      "reviewCount": null,
+      "placeId": "ChIJgTkVD2Pt0IkRhoFhhat5p9s",
+      "googleMapsUrl": "https://maps.google.com/?cid=15827753193001025926",
+      "businessStatus": "CLOSED_PERMANENTLY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:44.011Z"
+    },
+    {
+      "name": "Knapp Winery",
+      "originalSearchName": "Knapp Winery",
+      "address": "2770 Ernsberger Rd, Romulus, NY 14541, USA",
+      "coordinates": {
+        "lat": 42.7651455,
+        "lng": -76.78271
+      },
+      "phone": "(607) 930-3495",
+      "website": "https://knappwine.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 261,
+      "placeId": "ChIJKxOLzwK_0IkRXPR-XCY6738",
+      "googleMapsUrl": "https://maps.google.com/?cid=9218650898685686876",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:45.093Z"
+    },
+    {
+      "name": "Lake Street Station",
+      "originalSearchName": "Lake Street Station Winery",
+      "address": "41 Lake St, Geneva, NY 14456, USA",
+      "coordinates": {
+        "lat": 42.8701389,
+        "lng": -76.9792202
+      },
+      "phone": "(315) 789-5520",
+      "website": "http://www.lakestreetstation.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 12:00 – 8:00 PM",
+        "Friday: 12:00 – 8:00 PM",
+        "Saturday: 12:00 – 8:00 PM",
+        "Sunday: 12:00 – 6:00 PM"
+      ],
+      "googleRating": 4.3,
+      "reviewCount": 63,
+      "placeId": "ChIJ0Wg0thPF0IkRNMUSei96k5k",
+      "googleMapsUrl": "https://maps.google.com/?cid=11066323053709542708",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:47.567Z"
+    },
+    {
+      "name": "Lakeland Winery",
+      "originalSearchName": "Lakeland Winery",
+      "address": "877 State Fair Blvd, Syracuse, NY 13209, USA",
+      "coordinates": {
+        "lat": 43.0930584,
+        "lng": -76.2429122
+      },
+      "phone": "(315) 487-2884",
+      "website": "https://www.lakelandwinery.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 4:00 – 7:30 PM",
+        "Saturday: 12:00 – 7:00 PM",
+        "Sunday: 12:00 – 4:00 PM"
+      ],
+      "googleRating": 4.5,
+      "reviewCount": 51,
+      "placeId": "ChIJBd2VRj_w2YkRSZVf3-q2rlA",
+      "googleMapsUrl": "https://maps.google.com/?cid=5813785288868074825",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:48.635Z"
+    },
+    {
+      "name": "Lakeshore Winery",
+      "originalSearchName": "Lakeshore Winery",
+      "address": "5132 NY-89, Romulus, NY 14541, USA",
+      "coordinates": {
+        "lat": 42.77575059999999,
+        "lng": -76.7702412
+      },
+      "phone": "(315) 549-7075",
+      "website": "http://www.lakeshorewinery.com/",
+      "hours": null,
+      "googleRating": 4.7,
+      "reviewCount": 80,
+      "placeId": "ChIJP2m3wdy-0IkRPww-_0-7910",
+      "googleMapsUrl": "https://maps.google.com/?cid=6771086517033897023",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:49.863Z"
+    },
+    {
+      "name": "Lakewood Vineyards",
+      "originalSearchName": "Lakewood Vineyards",
+      "address": "4024 NY-14, Watkins Glen, NY 14891, USA",
+      "coordinates": {
+        "lat": 42.4288566,
+        "lng": -76.9053784
+      },
+      "phone": "(607) 535-9252",
+      "website": "https://www.lakewoodvineyards.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 567,
+      "placeId": "ChIJbdCPUvf10IkRyIbGKwkZxwM",
+      "googleMapsUrl": "https://maps.google.com/?cid=272213829659035336",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:50.861Z"
+    },
+    {
+      "name": "Lamoreaux Landing Wine Cellars",
+      "originalSearchName": "Lamoreaux Landing Wine Cellars",
+      "address": "9224 NY-414, Lodi, NY 14860, USA",
+      "coordinates": {
+        "lat": 42.57663180000001,
+        "lng": -76.8584529
+      },
+      "phone": "(607) 582-6011",
+      "website": "http://www.lamoreauxwine.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "googleRating": 4.6,
+      "reviewCount": 244,
+      "placeId": "ChIJ3RQFkGTt0IkR4kaLaimATAM",
+      "googleMapsUrl": "https://maps.google.com/?cid=237705795713320674",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:52.261Z"
+    },
+    {
+      "name": "Leidenfrost Vineyards",
+      "originalSearchName": "Leidenfrost Vineyards",
+      "address": "5677 NY-414, Hector, NY 14841, USA",
+      "coordinates": {
+        "lat": 42.5080765,
+        "lng": -76.8775392
+      },
+      "phone": "(607) 546-2800",
+      "website": "https://www.leidenfrostwine.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.8,
+      "reviewCount": 305,
+      "placeId": "ChIJ3UDDYJzz0IkR4si1bR6DRhY",
+      "googleMapsUrl": "https://maps.google.com/?cid=1605114483917048034",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:53.552Z"
+    },
+    {
+      "name": "Living Roots Finger Lakes",
+      "originalSearchName": "Living Roots Wine & Co.",
+      "address": "8560 Co Rd 87, Hammondsport, NY 14840, USA",
+      "coordinates": {
+        "lat": 42.4055743,
+        "lng": -77.19298409999999
+      },
+      "phone": "(585) 383-1112",
+      "website": "http://livingrootswine.com/",
+      "hours": [
+        "Monday: 11:00 AM – 6:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 11:00 AM – 6:00 PM",
+        "Friday: 11:00 AM – 6:00 PM",
+        "Saturday: 11:00 AM – 6:00 PM",
+        "Sunday: 11:00 AM – 6:00 PM"
+      ],
+      "googleRating": 4.6,
+      "reviewCount": 115,
+      "placeId": "ChIJb3rXl5hV0IkRSHC3LK4Jx4M",
+      "googleMapsUrl": "https://maps.google.com/?cid=9495568983013158984",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:54.655Z"
+    },
+    {
+      "name": "Long Point Winery",
+      "originalSearchName": "Long Point Winery",
+      "address": "1485 Lake Rd, Aurora, NY 13026, USA",
+      "coordinates": {
+        "lat": 42.710341,
+        "lng": -76.6841834
+      },
+      "phone": "(315) 364-6990",
+      "website": "http://www.longpointwinery.com/",
+      "hours": [
+        "Monday: 12:00 – 5:00 PM",
+        "Tuesday: 12:00 – 5:00 PM",
+        "Wednesday: 12:00 – 5:00 PM",
+        "Thursday: 12:00 – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.6,
+      "reviewCount": 152,
+      "placeId": "ChIJ1ebsw3i90IkRIlocmVUvyvc",
+      "googleMapsUrl": "https://maps.google.com/?cid=17855135717351250466",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:55.874Z"
+    },
+    {
+      "name": "Lucas Vineyards",
+      "originalSearchName": "Lucas Vineyards",
+      "address": "3862 County Rd 150, Interlaken, NY 14847, USA",
+      "coordinates": {
+        "lat": 42.62787,
+        "lng": -76.71015400000002
+      },
+      "phone": "(607) 391-3862",
+      "website": "http://www.lucasvineyards.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.2,
+      "reviewCount": 190,
+      "placeId": "ChIJmzxYjzWR0IkRF7M2OgTw640",
+      "googleMapsUrl": "https://maps.google.com/?cid=10226531279822041879",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:57.079Z"
+    },
+    {
+      "name": "Miles Wine Cellars",
+      "originalSearchName": "Miles Wine Cellars",
+      "address": "168 Randall Crossing Rd, Himrod, NY 14842, USA",
+      "coordinates": {
+        "lat": 42.6173118,
+        "lng": -76.9208029
+      },
+      "phone": "(607) 243-7742",
+      "website": "http://www.mileswinecellars.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.5,
+      "reviewCount": 256,
+      "placeId": "ChIJmWjggYDu0IkRe5_aLUCa43U",
+      "googleMapsUrl": "https://maps.google.com/?cid=8494802922588774267",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:48:59.449Z"
+    },
+    {
+      "name": "Montezuma Winery & Hidden Marsh Distillery",
+      "originalSearchName": "Montezuma Winery",
+      "address": "2981 US-20, Seneca Falls, NY 13148, USA",
+      "coordinates": {
+        "lat": 42.950595,
+        "lng": -76.767878
+      },
+      "phone": "(315) 568-8190",
+      "website": "http://www.montezumawinery.com/",
+      "hours": [
+        "Monday: 9:00 AM – 5:30 PM",
+        "Tuesday: 9:00 AM – 5:30 PM",
+        "Wednesday: 9:00 AM – 5:30 PM",
+        "Thursday: 9:00 AM – 5:30 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 5:30 PM"
+      ],
+      "googleRating": 4.5,
+      "reviewCount": 508,
+      "placeId": "ChIJH1CJ5CW00IkRfOJhtuKiHco",
+      "googleMapsUrl": "https://maps.google.com/?cid=14563975864592228988",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:00.628Z"
+    },
+    {
+      "name": "Hickory Hollow Wine Cellars",
+      "originalSearchName": "N. Kendall Wines",
+      "address": "5289 NY-14, Dundee, NY 14837, USA",
+      "coordinates": {
+        "lat": 42.5116659,
+        "lng": -76.9227028
+      },
+      "phone": "(607) 243-9114",
+      "website": "https://www.hickoryhollowwinecellars.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.8,
+      "reviewCount": 84,
+      "placeId": "ChIJx05l_Vnx0IkRRZnh5pzr_LU",
+      "googleMapsUrl": "https://maps.google.com/?cid=13113615274117011781",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "multiple_matches",
+      "notes": "Found 8 results. First: \"Hickory Hollow Wine Cellars\"",
+      "collectedAt": "2026-01-28T20:49:01.800Z"
+    },
+    {
+      "name": "Hickory Hollow Wine Cellars",
+      "originalSearchName": "Nathan K. Wines",
+      "address": "5289 NY-14, Dundee, NY 14837, USA",
+      "coordinates": {
+        "lat": 42.5116659,
+        "lng": -76.9227028
+      },
+      "phone": "(607) 243-9114",
+      "website": "https://www.hickoryhollowwinecellars.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.8,
+      "reviewCount": 84,
+      "placeId": "ChIJx05l_Vnx0IkRRZnh5pzr_LU",
+      "googleMapsUrl": "https://maps.google.com/?cid=13113615274117011781",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "multiple_matches",
+      "notes": "Found 2 results. First: \"Hickory Hollow Wine Cellars\"",
+      "collectedAt": "2026-01-28T20:49:03.088Z"
+    },
+    {
+      "name": "New Vines Winery",
+      "originalSearchName": "New Vines Winery",
+      "address": "1138 Travis Rd, Penn Yan, NY 14527, USA",
+      "coordinates": {
+        "lat": 42.71434,
+        "lng": -76.985219
+      },
+      "phone": "(315) 536-4087",
+      "website": "http://www.newvines.com/",
+      "hours": null,
+      "googleRating": 5,
+      "reviewCount": 24,
+      "placeId": "ChIJ6YZ7OULo0IkRcWSuaLDb2YI",
+      "googleMapsUrl": "https://maps.google.com/?cid=9428808845593830513",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:04.466Z"
+    },
+    {
+      "name": "The Tasting Room at New York Kitchen",
+      "originalSearchName": "New York Kitchen",
+      "address": "800 S Main St, Canandaigua, NY 14424, USA",
+      "coordinates": {
+        "lat": 42.8758533,
+        "lng": -77.2733516
+      },
+      "phone": "(585) 394-7070",
+      "website": "http://nykitchen.com/tasting-room/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 11:00 AM – 8:00 PM",
+        "Saturday: 11:00 AM – 8:00 PM",
+        "Sunday: 11:00 AM – 7:00 PM"
+      ],
+      "googleRating": 5,
+      "reviewCount": 3,
+      "placeId": "ChIJha72DF4n0YkRolAz9xpnn4k",
+      "googleMapsUrl": "https://maps.google.com/?cid=9916758270007267490",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:05.984Z"
+    },
+    {
+      "name": "O-Neh-Da and Eagle Crest Vineyards",
+      "originalSearchName": "O-Neh-Da & Eagle Crest Vineyards",
+      "address": "7107 Vineyard Rd, Conesus, NY 14435, USA",
+      "coordinates": {
+        "lat": 42.7395948,
+        "lng": -77.6229448
+      },
+      "phone": "(585) 346-2321",
+      "website": "http://www.purewineonline.com/",
+      "hours": null,
+      "googleRating": 4.7,
+      "reviewCount": 95,
+      "placeId": "ChIJaYziz45r0YkR4fPxpGx27wE",
+      "googleMapsUrl": "https://maps.google.com/?cid=139460322467640289",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:07.237Z"
+    },
+    {
+      "name": "Osmote",
+      "originalSearchName": "Osmote Wine",
+      "address": "3879 Marcia Ln, Burdett, NY 14818, USA",
+      "coordinates": {
+        "lat": 42.4079222,
+        "lng": -76.8551009
+      },
+      "phone": "(607) 591-6972",
+      "website": "https://www.osmotewine.com/",
+      "hours": null,
+      "googleRating": 4.9,
+      "reviewCount": 47,
+      "placeId": "ChIJb938Netf0IkROuVph0PF2yA",
+      "googleMapsUrl": "https://maps.google.com/?cid=2367702922938672442",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:08.382Z"
+    },
+    {
+      "name": "Either Oar Wine, Whiskey, & Cheese Bar",
+      "originalSearchName": "Penguin Bay Winery",
+      "address": "6075 NY-414, Hector, NY 14841, USA",
+      "coordinates": {
+        "lat": 42.5283115,
+        "lng": -76.875939
+      },
+      "phone": "(607) 546-5115",
+      "website": "https://mfwineriesdistilleries.com/wineries/either-oar/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.2,
+      "reviewCount": 98,
+      "placeId": "ChIJq2Qfwqvz0IkRxuTraTXPqQk",
+      "googleMapsUrl": "https://maps.google.com/?cid=696315445722735814",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:09.608Z"
+    },
+    {
+      "name": "Pleasant Valley Wine Co",
+      "originalSearchName": "Pleasant Valley Wine Company",
+      "address": "8260 Pleasant Valley Rd, Hammondsport, NY 14840, USA",
+      "coordinates": {
+        "lat": 42.402054,
+        "lng": -77.251459
+      },
+      "phone": "(607) 569-6111",
+      "website": "http://pleasantvalleywine.com/",
+      "hours": null,
+      "googleRating": 4.5,
+      "reviewCount": 149,
+      "placeId": "ChIJS0C-k6Gr0YkR3lGPbtGnqWk",
+      "googleMapsUrl": "https://maps.google.com/?cid=7613801162991423966",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:10.824Z"
+    },
+    {
+      "name": "Point of the Bluff Vineyards",
+      "originalSearchName": "Point of the Bluff Vineyards",
+      "address": "10489 Co Rd 76, Hammondsport, NY 14840, USA",
+      "coordinates": {
+        "lat": 42.4997951,
+        "lng": -77.1884268
+      },
+      "phone": "(607) 220-5222",
+      "website": "http://www.pointofthebluffvineyards.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "googleRating": 4.3,
+      "reviewCount": 159,
+      "placeId": "ChIJkYlPzi7-0IkRU7lWRqs77dc",
+      "googleMapsUrl": "https://maps.google.com/?cid=15559157894440466771",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:11.906Z"
+    },
+    {
+      "name": "Ports of New York Winery",
+      "originalSearchName": "Ports of New York",
+      "address": "815 Taber St, Ithaca, NY 14850, USA",
+      "coordinates": {
+        "lat": 42.4386516,
+        "lng": -76.5150481
+      },
+      "phone": "(607) 220-6317",
+      "website": "http://www.portsofnewyork.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 12:00 – 5:30 PM",
+        "Sunday: 12:00 – 5:30 PM"
+      ],
+      "googleRating": 4.9,
+      "reviewCount": 126,
+      "placeId": "ChIJq7Bl5G2B0IkRdcE9z_24i14",
+      "googleMapsUrl": "https://maps.google.com/?cid=6812742261571174773",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:13.937Z"
+    },
+    {
+      "name": "Prejean Winery",
+      "originalSearchName": "Prejean Winery",
+      "address": "2634 NY-14, Penn Yan, NY 14527, USA",
+      "coordinates": {
+        "lat": 42.6368553,
+        "lng": -76.94566429999999
+      },
+      "phone": "(315) 536-7524",
+      "website": "http://prejeanwinery.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "googleRating": 4.8,
+      "reviewCount": 153,
+      "placeId": "ChIJZRzrNenu0IkR76y_SkWXW-E",
+      "googleMapsUrl": "https://maps.google.com/?cid=16238739205277068527",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:15.123Z"
+    },
+    {
+      "name": "Rasta Ranch Vineyards",
+      "originalSearchName": "Rasta Ranch Vineyards",
+      "address": "5882 NY-414, Hector, NY 14841, USA",
+      "coordinates": {
+        "lat": 42.5182758,
+        "lng": -76.87340320000001
+      },
+      "phone": "(607) 546-2974",
+      "website": "http://www.rastaranchvineyards.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 266,
+      "placeId": "ChIJz94Rk6Dz0IkRgdPmZi3qIc4",
+      "googleMapsUrl": "https://maps.google.com/?cid=14853410526765437825",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:17.530Z"
+    },
+    {
+      "name": "Ravines Wine Cellars",
+      "originalSearchName": "Ravines Wine Cellars",
+      "address": "400 Barracks Rd, Geneva, NY 14456, USA",
+      "coordinates": {
+        "lat": 42.8445395,
+        "lng": -77.0010313
+      },
+      "phone": "(315) 781-7007",
+      "website": "http://www.ravineswine.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.3,
+      "reviewCount": 255,
+      "placeId": "ChIJC_-GD8_E0IkRwWQY_XJNpF0",
+      "googleMapsUrl": "https://maps.google.com/?cid=6747603297975690433",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:18.737Z"
+    },
+    {
+      "name": "Ravines Wine Cellars & Agricolae Estate Winery",
+      "originalSearchName": "Ravines Wine Cellars (Keuka)",
+      "address": "14630 NY-54, Hammondsport, NY 14840, USA",
+      "coordinates": {
+        "lat": 42.4906794,
+        "lng": -77.1203113
+      },
+      "phone": "(607) 292-7007",
+      "website": "http://www.ravineswine.com/",
+      "hours": null,
+      "googleRating": 4.2,
+      "reviewCount": 126,
+      "placeId": "ChIJWSEeaQ6s0YkRVvF1RNJ-zPQ",
+      "googleMapsUrl": "https://maps.google.com/?cid=17639613282060202326",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:19.833Z"
+    },
+    {
+      "name": "Raymor Estate Cellars",
+      "originalSearchName": "Raymor Estate Cellars",
+      "address": "3263 Wheeler Station Rd, Bloomfield, NY 14469, USA",
+      "coordinates": {
+        "lat": 42.867317,
+        "lng": -77.379541
+      },
+      "phone": "(585) 233-9860",
+      "website": "http://raymorcellars.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 12:00 – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "googleRating": 4.5,
+      "reviewCount": 42,
+      "placeId": "ChIJr_bBQFM70YkRf1u-Vd2hMBg",
+      "googleMapsUrl": "https://maps.google.com/?cid=1743071027790764927",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:21.007Z"
+    },
+    {
+      "name": "Red Newt Cellars",
+      "originalSearchName": "Red Newt Cellars",
+      "address": "3675 Tichenor Rd, Hector, NY 14841, USA",
+      "coordinates": {
+        "lat": 42.501911,
+        "lng": -76.867181
+      },
+      "phone": "(607) 546-4100",
+      "website": "https://rednewt.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 229,
+      "placeId": "ChIJHQVjZHnz0IkRLWeNFf-SO-A",
+      "googleMapsUrl": "https://maps.google.com/?cid=16157669712397690669",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:22.117Z"
+    },
+    {
+      "name": "Red Tail Ridge Winery",
+      "originalSearchName": "Red Tail Ridge",
+      "address": "846 NY-14, Penn Yan, NY 14527, USA",
+      "coordinates": {
+        "lat": 42.7233615,
+        "lng": -76.97690460000001
+      },
+      "phone": "(315) 536-4580",
+      "website": "http://www.redtailridgewinery.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.3,
+      "reviewCount": 177,
+      "placeId": "ChIJw081pjDo0IkRaHTjvs5Y0vk",
+      "googleMapsUrl": "https://maps.google.com/?cid=18001548305542378600",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:23.299Z"
+    },
+    {
+      "name": "Rock Stream Vineyards",
+      "originalSearchName": "Rock Stream Vineyards",
+      "address": "162 Fir Tree Point Rd, Rock Stream, NY 14878, USA",
+      "coordinates": {
+        "lat": 42.47161639999999,
+        "lng": -76.91968059999999
+      },
+      "phone": "(607) 243-5395",
+      "website": "http://www.rockstreamvineyards.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.1,
+      "reviewCount": 71,
+      "placeId": "ChIJz9bLTZ320IkRU-m4nUyd1QU",
+      "googleMapsUrl": "https://maps.google.com/?cid=420415092618226003",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:24.497Z"
+    },
+    {
+      "name": "Rooster Hill Vineyards",
+      "originalSearchName": "Rooster Hill Vineyards",
+      "address": "489 NY-54, Penn Yan, NY 14527, USA",
+      "coordinates": {
+        "lat": 42.5936519,
+        "lng": -77.0770343
+      },
+      "phone": "(315) 536-4773",
+      "website": "http://www.roosterhill.com/",
+      "hours": [
+        "Monday: 11:00 AM – 6:00 PM",
+        "Tuesday: 11:00 AM – 6:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 11:00 AM – 6:00 PM",
+        "Sunday: 11:00 AM – 6:00 PM"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 124,
+      "placeId": "ChIJ84dBas7l0IkR3ntQlEoQRWY",
+      "googleMapsUrl": "https://maps.google.com/?cid=7369314277763611614",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:25.662Z"
+    },
+    {
+      "name": "Savor Vineyards and Wines",
+      "originalSearchName": "Savor Vineyards and Wines",
+      "address": "8437 Oak Hill Rd, Arkport, NY 14807, USA",
+      "coordinates": {
+        "lat": 42.41057199999999,
+        "lng": -77.68876639999999
+      },
+      "phone": "(607) 765-8601",
+      "website": "http://www.savorwine.net/",
+      "hours": null,
+      "googleRating": 4.9,
+      "reviewCount": 59,
+      "placeId": "ChIJj77jL6Ob0YkR_FpvuqGabXQ",
+      "googleMapsUrl": "https://maps.google.com/?cid=8389531700269374204",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:27.959Z"
+    },
+    {
+      "name": "Seneca Harbor Wine Center",
+      "originalSearchName": "Seneca Harbor Wine Center",
+      "address": "2 N Franklin St, Watkins Glen, NY 14891, USA",
+      "coordinates": {
+        "lat": 42.3834617,
+        "lng": -76.8748433
+      },
+      "phone": "(607) 535-4867",
+      "website": "https://www.pleasantvalleywine.com/visit/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 3.7,
+      "reviewCount": 66,
+      "placeId": "ChIJXWZX5ABf0IkRGeWN4mvycX8",
+      "googleMapsUrl": "https://maps.google.com/?cid=9183387660361524505",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:29.403Z"
+    },
+    {
+      "name": "Seneca Shore Wine Cellars",
+      "originalSearchName": "Seneca Shore Wine Cellars",
+      "address": "929 Davy Rd, Penn Yan, NY 14527, USA",
+      "coordinates": {
+        "lat": 42.714324,
+        "lng": -76.970107
+      },
+      "phone": "(315) 536-0882",
+      "website": "https://senecawine.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM – 4:00 PM",
+        "Saturday: 11:00 AM – 4:00 PM",
+        "Sunday: 11:00 AM – 4:00 PM"
+      ],
+      "googleRating": 3.7,
+      "reviewCount": 132,
+      "placeId": "ChIJKx7yVUno0IkRXP7kNrwE7Pk",
+      "googleMapsUrl": "https://maps.google.com/?cid=18008774216369110620",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:30.556Z"
+    },
+    {
+      "name": "Serenity Vineyards",
+      "originalSearchName": "Serenity Vineyards",
+      "address": "930 Davy Rd #9644, Penn Yan, NY 14527, USA",
+      "coordinates": {
+        "lat": 42.7178169,
+        "lng": -76.9707188
+      },
+      "phone": "(315) 536-6701",
+      "website": "http://www.serenityvineyards1977.com/",
+      "hours": null,
+      "googleRating": 4.3,
+      "reviewCount": 42,
+      "placeId": "ChIJ5XvqBjbo0IkRq_1LaFw6SPA",
+      "googleMapsUrl": "https://maps.google.com/?cid=17314152935987084715",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:31.707Z"
+    },
+    {
+      "name": "Shalestone Vineyards",
+      "originalSearchName": "Shalestone Vineyards",
+      "address": "9681 NY-414, Lodi, NY 14860, USA",
+      "coordinates": {
+        "lat": 42.55507009999999,
+        "lng": -76.8660829
+      },
+      "phone": "(607) 582-6600",
+      "website": "http://shalestonevineyards.com/",
+      "hours": null,
+      "googleRating": 4.6,
+      "reviewCount": 81,
+      "placeId": "ChIJIQqM647y0IkRqtPU_RDMx2I",
+      "googleMapsUrl": "https://maps.google.com/?cid=7117882109432484778",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:32.776Z"
+    },
+    {
+      "name": "Shaw Vineyard",
+      "originalSearchName": "Shaw Vineyard",
+      "address": "3901 NY-14, Dundee, NY 14837, USA",
+      "coordinates": {
+        "lat": 42.5780091,
+        "lng": -76.93032319999999
+      },
+      "phone": "(607) 243-7000",
+      "website": "http://shawvineyard.com/",
+      "hours": null,
+      "googleRating": 4.7,
+      "reviewCount": 182,
+      "placeId": "ChIJE8001uLx0IkRmasc0xWhlmc",
+      "googleMapsUrl": "https://maps.google.com/?cid=7464330547521432473",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:33.952Z"
+    },
+    {
+      "name": "Sheldrake Point Winery",
+      "originalSearchName": "Sheldrake Point Winery",
+      "address": "7448 County Rd 153, Ovid, NY 14521, USA",
+      "coordinates": {
+        "lat": 42.663409,
+        "lng": -76.701425
+      },
+      "phone": "(607) 532-9401",
+      "website": "http://sheldrakepoint.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 8:00 PM",
+        "Saturday: 11:00 AM – 8:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 268,
+      "placeId": "ChIJvRUpMfeW0IkRAAWh7I6zzyA",
+      "googleMapsUrl": "https://maps.google.com/?cid=2364305755829503232",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:35.152Z"
+    },
+    {
+      "name": "Shepherdess Cellars",
+      "originalSearchName": "Shepherdess Cellars",
+      "address": "8189 NY-89, Interlaken, NY 14847, USA",
+      "coordinates": {
+        "lat": 42.6273523,
+        "lng": -76.70203049999999
+      },
+      "phone": "(607) 532-3437",
+      "website": "http://www.shepherdesscellars.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 12:00 – 4:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 4:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 81,
+      "placeId": "ChIJ8ZwNPDOR0IkR2KwYLUy-AmU",
+      "googleMapsUrl": "https://maps.google.com/?cid=7278589182167526616",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:36.305Z"
+    },
+    {
+      "name": "Silver Springs Winery",
+      "originalSearchName": "Silver Springs Winery",
+      "address": "4408 NY-414, Burdett, NY 14818, USA",
+      "coordinates": {
+        "lat": 42.44687,
+        "lng": -76.86331100000001
+      },
+      "phone": "(607) 351-8019",
+      "website": "http://www.silverspringswinery.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00��AM – 5:00 PM",
+        "Saturday: 10:30 AM – 5:30 PM",
+        "Sunday: Closed"
+      ],
+      "googleRating": 4.9,
+      "reviewCount": 880,
+      "placeId": "ChIJgxvcTgT10IkRrxflMQHqIb4",
+      "googleMapsUrl": "https://maps.google.com/?cid=13700488832290723759",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:37.410Z"
+    },
+    {
+      "name": "Six Eighty Cellars",
+      "originalSearchName": "Six Eighty Cellars",
+      "address": "3050 Swick Rd, Ovid, NY 14521, USA",
+      "coordinates": {
+        "lat": 42.7231373,
+        "lng": -76.762913
+      },
+      "phone": "(315) 530-2663",
+      "website": "http://www.sixeightycellars.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 129,
+      "placeId": "ChIJS2azCvG_0IkRt_FAdG8NP3c",
+      "googleMapsUrl": "https://maps.google.com/?cid=8592601386389139895",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:38.883Z"
+    },
+    {
+      "name": "Finger Lakes Wine Center",
+      "originalSearchName": "Sonnenberg Wine Center",
+      "address": "151 Charlotte St, Canandaigua, NY 14424, USA",
+      "coordinates": {
+        "lat": 42.8963433,
+        "lng": -77.272505
+      },
+      "phone": "(585) 394-4922",
+      "website": "https://www.sonnenberg.org/wine-center/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 12:00 – 3:00 PM",
+        "Saturday: 12:00 – 3:00 PM",
+        "Sunday: 12:00 – 3:00 PM"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 44,
+      "placeId": "ChIJJ0QQdm8m0YkRwGeL-bK7G-E",
+      "googleMapsUrl": "https://maps.google.com/?cid=16220764860270208960",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:40.359Z"
+    },
+    {
+      "name": "South Hill Cider",
+      "originalSearchName": "South Hill Cider",
+      "address": "550 Sandbank Rd, Ithaca, NY 14850, USA",
+      "coordinates": {
+        "lat": 42.3937648,
+        "lng": -76.52519649999999
+      },
+      "phone": "(607) 792-1097",
+      "website": "http://southhillcider.com/",
+      "hours": [
+        "Monday: 12:00 – 4:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 12:00 – 8:00 PM",
+        "Friday: 12:00 – 8:00 PM",
+        "Saturday: 12:00 – 8:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "googleRating": 4.5,
+      "reviewCount": 314,
+      "placeId": "ChIJvZDagpaA0IkRV5fhxvZyE6k",
+      "googleMapsUrl": "https://maps.google.com/?cid=12183207821191518039",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:41.710Z"
+    },
+    {
+      "name": "Standing Stone Vineyards",
+      "originalSearchName": "Standing Stone Vineyards",
+      "address": "9934 NY-414, Hector, NY 14841, USA",
+      "coordinates": {
+        "lat": 42.5434461,
+        "lng": -76.8747894
+      },
+      "phone": "(607) 582-6051",
+      "website": "http://standingstonewines.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 12:00 – 5:00 PM",
+        "Friday: 12:00 – 5:00 PM",
+        "Saturday: 12:00 – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 189,
+      "placeId": "ChIJE9HQHFjy0IkRoYrxysz72-Q",
+      "googleMapsUrl": "https://maps.google.com/?cid=16491051317543930529",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:42.971Z"
+    },
+    {
+      "name": "Starkey's Lookout",
+      "originalSearchName": "Starkey's Lookout",
+      "address": "5428 NY-14, Dundee, NY 14837, USA",
+      "coordinates": {
+        "lat": 42.501164,
+        "lng": -76.9252844
+      },
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "googleRating": 4.3,
+      "reviewCount": 114,
+      "placeId": "ChIJC_SBs6z20IkR-3cjW1vg0HA",
+      "googleMapsUrl": "https://maps.google.com/?cid=8129244010379442171",
+      "businessStatus": "CLOSED_PERMANENTLY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:44.123Z"
+    },
+    {
+      "name": "Swedish Hill Vineyard & Winery",
+      "originalSearchName": "Swedish Hill Winery",
+      "address": "4565 NY-414, Romulus, NY 14541, USA",
+      "coordinates": {
+        "lat": 42.80322779999999,
+        "lng": -76.8103778
+      },
+      "phone": "(315) 549-3060",
+      "website": "https://mfwineriesdistilleries.com/wineries/swedish-hill/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.1,
+      "reviewCount": 172,
+      "placeId": "ChIJVZvqKmK_0IkRI27Dr8spYCo",
+      "googleMapsUrl": "https://maps.google.com/?cid=3053486502161116707",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:45.367Z"
+    },
+    {
+      "name": "Tabora Farm & Winery",
+      "originalSearchName": "Tabora Farm and Winery",
+      "address": "4978 Lakemont-Himrod Rd, Dundee, NY 14837, USA",
+      "coordinates": {
+        "lat": 42.523583,
+        "lng": -76.93024489999999
+      },
+      "phone": "(607) 678-4342",
+      "website": "http://taborafarmandwinery.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.6,
+      "reviewCount": 351,
+      "placeId": "ChIJHwchD2nx0IkRDeEV7XuGkeo",
+      "googleMapsUrl": "https://maps.google.com/?cid=16902438743314915597",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:46.536Z"
+    },
+    {
+      "name": "Apple Station Winery",
+      "originalSearchName": "The Apple Station Winery",
+      "address": "5279 Cross Rd, Cayuga, NY 13034, USA",
+      "coordinates": {
+        "lat": 42.8729194,
+        "lng": -76.6853275
+      },
+      "phone": "(315) 730-4239",
+      "website": "https://www.theapplestation.com/",
+      "hours": null,
+      "googleRating": 4.4,
+      "reviewCount": 60,
+      "placeId": "ChIJYT58iGGw0IkRD0huEDtG8Tc",
+      "googleMapsUrl": "https://maps.google.com/?cid=4031080360965982223",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:47.762Z"
+    },
+    {
+      "name": "The Barrel Room",
+      "originalSearchName": "The Barrel Room",
+      "address": "72 W Main St, Victor, NY 14564, USA",
+      "coordinates": {
+        "lat": 42.9839092,
+        "lng": -77.4117358
+      },
+      "phone": null,
+      "website": null,
+      "hours": null,
+      "googleRating": 5,
+      "reviewCount": 2,
+      "placeId": "ChIJzf8BI7Ix0YkR0FsTovAwUng",
+      "googleMapsUrl": "https://maps.google.com/?cid=8670046042711088080",
+      "businessStatus": "CLOSED_PERMANENTLY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:49.195Z"
+    },
+    {
+      "name": "Thirsty Owl Wine Company",
+      "originalSearchName": "Thirsty Owl Wine Company",
+      "address": "6861 NY-89, Ovid, NY 14521, USA",
+      "coordinates": {
+        "lat": 42.6932392,
+        "lng": -76.7413356
+      },
+      "phone": "(607) 869-5805",
+      "website": "http://www.thirstyowl.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:30 PM",
+        "Tuesday: 10:00 AM – 5:30 PM",
+        "Wednesday: 10:00 AM – 5:30 PM",
+        "Thursday: 10:00 AM – 5:30 PM",
+        "Friday: 10:00 AM – 5:30 PM",
+        "Saturday: 10:00 AM – 5:30 PM",
+        "Sunday: 10:30 AM – 5:30 PM"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 580,
+      "placeId": "ChIJ5xl5t-iV0IkRXgRQsbgYvQM",
+      "googleMapsUrl": "https://maps.google.com/?cid=269398734239958110",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:50.382Z"
+    },
+    {
+      "name": "Thorpe Vineyard",
+      "originalSearchName": "Thorpe Vineyard",
+      "address": "8150 Chimney Heights Blvd, Wolcott, NY 14590, USA",
+      "coordinates": {
+        "lat": 43.2916435,
+        "lng": -76.8994511
+      },
+      "phone": "(315) 594-2502",
+      "website": "http://www.thorpevineyard.com/",
+      "hours": null,
+      "googleRating": 4.6,
+      "reviewCount": 42,
+      "placeId": "ChIJ20r2sJM-14kRH4E-TQH6WEE",
+      "googleMapsUrl": "https://maps.google.com/?cid=4708788293913706783",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:51.826Z"
+    },
+    {
+      "name": "Three Brothers Wineries and Estates",
+      "originalSearchName": "Three Brothers Wineries & Estates",
+      "address": "623 Lerch Rd, Geneva, NY 14456, USA",
+      "coordinates": {
+        "lat": 42.8231619,
+        "lng": -76.92305120000002
+      },
+      "phone": "(315) 585-4432",
+      "website": "http://www.3brotherswinery.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.6,
+      "reviewCount": 1741,
+      "placeId": "ChIJ4ZsHGRvE0IkRsLVDOibUpsU",
+      "googleMapsUrl": "https://maps.google.com/?cid=14242304132257134000",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:52.984Z"
+    },
+    {
+      "name": "Toast Winery",
+      "originalSearchName": "Toast Winery",
+      "address": "4499 NY-14, Rock Stream, NY 14878, USA",
+      "coordinates": {
+        "lat": 42.4508388,
+        "lng": -76.91029089999999
+      },
+      "phone": "(607) 535-4277",
+      "website": "http://www.toastwineryflx.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.5,
+      "reviewCount": 237,
+      "placeId": "ChIJ062MfdD10IkRyfp3Ieq8pW4",
+      "googleMapsUrl": "https://maps.google.com/?cid=7972986429099211465",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:54.354Z"
+    },
+    {
+      "name": "Toro Run Winery",
+      "originalSearchName": "Toro Run Winery",
+      "address": "3050 Swick Rd, Ovid, NY 14521, USA",
+      "coordinates": {
+        "lat": 42.7231846,
+        "lng": -76.7628888
+      },
+      "phone": "(315) 530-2663",
+      "website": null,
+      "hours": null,
+      "googleRating": 4.4,
+      "reviewCount": 61,
+      "placeId": "ChIJJVuMgjq-0IkR2bRqVA68TOE",
+      "googleMapsUrl": "https://maps.google.com/?cid=16234557526495638745",
+      "businessStatus": "CLOSED_PERMANENTLY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:55.743Z"
+    },
+    {
+      "name": "Treleaven Wines",
+      "originalSearchName": "Treleaven Wines",
+      "address": "658 Lake Rd, King Ferry, NY 13081, USA",
+      "coordinates": {
+        "lat": 42.6499963,
+        "lng": -76.63469289999999
+      },
+      "phone": "(315) 364-5100",
+      "website": "https://treleavenwines.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 12:00 – 5:00 PM",
+        "Friday: 12:00 – 8:00 PM",
+        "Saturday: 12:00 – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "googleRating": 4.7,
+      "reviewCount": 250,
+      "placeId": "ChIJ86N-DtqZ0IkR9ets0kZO3Sw",
+      "googleMapsUrl": "https://maps.google.com/?cid=3232826173606915061",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:56.784Z"
+    },
+    {
+      "name": "Trestle Thirty One",
+      "originalSearchName": "Trestle Thirty One",
+      "address": "436 Exchange St, Geneva, NY 14456, USA",
+      "coordinates": {
+        "lat": 42.8683436,
+        "lng": -76.9814711
+      },
+      "phone": "(315) 719-3220",
+      "website": "http://www.trestle31.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 12:00 – 5:00 PM",
+        "Saturday: 12:00 – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "googleRating": 4.8,
+      "reviewCount": 21,
+      "placeId": "ChIJ00h6YKbF0IkRwwJCG-Dfr2I",
+      "googleMapsUrl": "https://maps.google.com/?cid=7111148490264281795",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:58.042Z"
+    },
+    {
+      "name": "Varick Winery & Vineyard",
+      "originalSearchName": "Varick Winery & Vineyard",
+      "address": "5102 NY-89, Romulus, NY 14541, USA",
+      "coordinates": {
+        "lat": 42.7814817,
+        "lng": -76.7688661
+      },
+      "phone": "(315) 549-8797",
+      "website": null,
+      "hours": null,
+      "googleRating": 4.4,
+      "reviewCount": 162,
+      "placeId": "ChIJQVYyINq-0IkRu6zi3zpgLog",
+      "googleMapsUrl": "https://maps.google.com/?cid=9812886444067433659",
+      "businessStatus": "CLOSED_PERMANENTLY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:49:59.173Z"
+    },
+    {
+      "name": "Ventosa Vineyards",
+      "originalSearchName": "Ventosa Vineyards",
+      "address": "3440 NY-96A, Geneva, NY 14456, USA",
+      "coordinates": {
+        "lat": 42.857164,
+        "lng": -76.936131
+      },
+      "phone": "(315) 719-0000",
+      "website": "http://ventosavineyards.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM –��5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 751,
+      "placeId": "ChIJz0nXqMjF0IkRDQXWyqlS944",
+      "googleMapsUrl": "https://maps.google.com/?cid=10301793561839273229",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:50:00.184Z"
+    },
+    {
+      "name": "Vineyard View Winery",
+      "originalSearchName": "Vineyard View Winery",
+      "address": "2971 Williams Hill Rd, Keuka Park, NY 14478, USA",
+      "coordinates": {
+        "lat": 42.62320460000001,
+        "lng": -77.1035837
+      },
+      "phone": "(315) 694-7262",
+      "website": "http://vineyardviewwinery.com/",
+      "hours": null,
+      "googleRating": 4.7,
+      "reviewCount": 131,
+      "placeId": "ChIJU7ONIGLj0IkRv_oHMZEqwro",
+      "googleMapsUrl": "https://maps.google.com/?cid=13457365439617694399",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:50:01.480Z"
+    },
+    {
+      "name": "Wagner Vineyards Estate Winery",
+      "originalSearchName": "Wagner Vineyards",
+      "address": "9322 NY-414, Lodi, NY 14860, USA",
+      "coordinates": {
+        "lat": 42.5715292,
+        "lng": -76.8591094
+      },
+      "phone": "(607) 582-6450",
+      "website": "https://wagnervineyards.com/?y_source=1_Mjc1OTgzOTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.4,
+      "reviewCount": 486,
+      "placeId": "ChIJOZf-lmLt0IkRbDHq0BzEuqo",
+      "googleMapsUrl": "https://maps.google.com/?cid=12302360960159068524",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:50:02.653Z"
+    },
+    {
+      "name": "Weis Vineyards",
+      "originalSearchName": "Weis Vineyards",
+      "address": "10014 Day Rd, Hammondsport, NY 14840, USA",
+      "coordinates": {
+        "lat": 42.4846976,
+        "lng": -77.13777209999999
+      },
+      "phone": "(607) 284-4011",
+      "website": "http://www.weisvineyards.com/",
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.8,
+      "reviewCount": 435,
+      "placeId": "ChIJvclE0hz_0IkR0RV0Aa3tMho",
+      "googleMapsUrl": "https://maps.google.com/?cid=1887832521131169233",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:50:03.921Z"
+    },
+    {
+      "name": "White Birch Vineyards Tasting Room",
+      "originalSearchName": "White Birch Vineyards",
+      "address": "18 W Genesee St, Skaneateles, NY 13152, USA",
+      "coordinates": {
+        "lat": 42.9456552,
+        "lng": -76.4303527
+      },
+      "phone": "(315) 685-9463",
+      "website": null,
+      "hours": null,
+      "googleRating": 4.2,
+      "reviewCount": 17,
+      "placeId": "ChIJyQQLV14A2okRd6QPDMBsBLM",
+      "googleMapsUrl": "https://maps.google.com/?cid=12899554804787815543",
+      "businessStatus": "CLOSED_PERMANENTLY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:50:05.195Z"
+    },
+    {
+      "name": "Silver Springs Winery",
+      "originalSearchName": "White Springs Farm Winery",
+      "address": "4408 NY-414, Burdett, NY 14818, USA",
+      "coordinates": {
+        "lat": 42.44687,
+        "lng": -76.86331100000001
+      },
+      "phone": "(607) 351-8019",
+      "website": "http://www.silverspringswinery.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00��AM – 5:00 PM",
+        "Saturday: 10:30 AM – 5:30 PM",
+        "Sunday: Closed"
+      ],
+      "googleRating": 4.9,
+      "reviewCount": 880,
+      "placeId": "ChIJgxvcTgT10IkRrxflMQHqIb4",
+      "googleMapsUrl": "https://maps.google.com/?cid=13700488832290723759",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "multiple_matches",
+      "notes": "Found 20 results. First: \"Silver Springs Winery\"",
+      "collectedAt": "2026-01-28T20:50:06.542Z"
+    },
+    {
+      "name": "Yates Cellars",
+      "originalSearchName": "Yates Cellars Winery",
+      "address": "3170 NY-54A, Keuka Park, NY 14478, USA",
+      "coordinates": {
+        "lat": 42.60634659999999,
+        "lng": -77.1180088
+      },
+      "phone": "(315) 575-1863",
+      "website": "http://yatescellars.com/",
+      "hours": null,
+      "googleRating": 4.8,
+      "reviewCount": 53,
+      "placeId": "ChIJh516QU7j0IkR29UD5NhxypY",
+      "googleMapsUrl": "https://maps.google.com/?cid=10865622227337074139",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:50:07.784Z"
+    },
+    {
+      "name": "Zugibe Vineyards - Wine With A View.",
+      "originalSearchName": "Zugibe Vineyards",
+      "address": "4248 E Lake Rd, Geneva, NY 14456, USA",
+      "coordinates": {
+        "lat": 42.8188964,
+        "lng": -76.9325699
+      },
+      "phone": "(315) 585-6402",
+      "website": "http://www.zugibevineyards.com/",
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "googleRating": 4.3,
+      "reviewCount": 211,
+      "placeId": "ChIJSZmxFg_E0IkRUmF-kNTFLz8",
+      "googleMapsUrl": "https://maps.google.com/?cid=4553075265042800978",
+      "businessStatus": "OPERATIONAL",
+      "verificationStatus": "found",
+      "notes": null,
+      "collectedAt": "2026-01-28T20:50:08.835Z"
+    }
+  ]
+}

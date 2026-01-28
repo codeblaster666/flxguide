@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2026-01-28T20:39:16.500Z",
+    "apiCalls": {
+      "textSearch": 10,
+      "placeDetails": 0
+    },
+    "estimatedCost": {
+      "textSearch": 0.32,
+      "placeDetails": 0,
+      "total": 0.32
+    },
+    "freeMonthlyCredit": 200,
+    "remainingCredit": 199.68
+  },
+  {
+    "timestamp": "2026-01-28T20:47:14.398Z",
+    "apiCalls": {
+      "textSearch": 10,
+      "placeDetails": 10
+    },
+    "estimatedCost": {
+      "textSearch": 0.32,
+      "placeDetails": 0.17,
+      "total": 0.49
+    },
+    "freeMonthlyCredit": 200,
+    "remainingCredit": 199.51
+  },
+  {
+    "timestamp": "2026-01-28T20:50:08.838Z",
+    "apiCalls": {
+      "textSearch": 151,
+      "placeDetails": 141
+    },
+    "estimatedCost": {
+      "textSearch": 4.832,
+      "placeDetails": 2.397,
+      "total": 7.228999999999999
+    },
+    "freeMonthlyCredit": 200,
+    "remainingCredit": 192.77100000000002
+  }
+]
