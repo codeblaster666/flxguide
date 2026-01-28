@@ -36,6 +36,7 @@ flxguide/
 ## Quick Links
 
 ### Documentation
+- [Geographic Definition](docs/geography.md) - 13 counties, 11 lakes (source of truth)
 - [Project Roadmap](docs/ROADMAP.md) - Phases & milestones
 - [Content Calendar](docs/CONTENT-CALENDAR.md) - Publishing schedule
 

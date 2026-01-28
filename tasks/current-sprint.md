@@ -12,9 +12,13 @@
 
 ### Project Setup
 - [x] Set up project management structure
+- [x] Define geographic boundaries
 - [ ] Configure development environment
 - [ ] Set up version control and GitHub repo
 - [ ] Establish coding standards and documentation guidelines
+
+### Data Collection
+- [ ] Create comprehensive winery database
 
 ### Repository Migration
 - [x] Move wine tour app into this repo
@@ -120,6 +124,7 @@
 - [x] Set up task tracking structure
 - [x] Move wine tour app into this repo
 - [x] Review and document wine tour app architecture
+- [x] Define geographic boundaries (13 counties, 11 lakes)
 
 ---
 
