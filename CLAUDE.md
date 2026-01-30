@@ -26,3 +26,17 @@ Key principles:
 - Maps should be fully functional on touch devices
 - Forms must be usable with mobile keyboards
 - Images should be responsive and not slow down mobile load times
+
+## Cost Efficiency
+
+Minimize usage of paid APIs and external services to stay within free tiers as long as possible.
+
+Key principles:
+- Cache API responses whenever practical (avoid duplicate calls)
+- Batch API requests where possible instead of making many individual calls
+- Use static data files (JSON) instead of API calls when data doesn't change frequently
+- Lazy load data only when needed (don't fetch everything on page load)
+- Implement debouncing on search inputs and map interactions
+- Store results locally (localStorage, state) to avoid re-fetching
+- Be mindful of Mapbox and Google API quotas - log usage during development
+- Prefer client-side filtering/sorting over repeated API calls
